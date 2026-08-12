@@ -1,4 +1,4 @@
-# IPL 2026 Power BI Analytics
+# IPL 2026  Analytics
 
 An exploratory cricket analytics project built around IPL 2026 match, batting, and bowling data. The project combines Python-based analysis, SQL queries, and interactive Power BI reports to surface team, player, toss, venue, and boundary-scoring insights.
 
