@@ -1,0 +1,1131 @@
+match_id,batter,batting_team,bowling_team,venue,runs,balls_faced,fours,sixes,strike_rate,is_century,is_fifty,dismissed_player,dismissal_kind
+1527674,Abhishek Sharma,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",7,11,0,1,63.64,0,0,Abhishek Sharma,caught
+1527674,Aniket Verma,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",43,18,3,4,238.89,0,0,Aniket Verma,caught
+1527674,D Padikkal,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",61,26,7,4,234.62,0,1,D Padikkal,caught
+1527674,DA Payne,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",6,5,0,0,120.0,0,0,,
+1527674,H Klaasen,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",31,22,2,1,140.91,0,0,H Klaasen,caught
+1527674,HV Patel,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,2,0,0,0.0,0,0,HV Patel,caught
+1527674,Harsh Dubey,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",3,4,0,0,75.0,0,0,Harsh Dubey,caught
+1527674,Ishan Kishan,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",80,38,8,5,210.53,0,1,Ishan Kishan,caught
+1527674,JD Unadkat,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",4,3,0,0,133.33,0,0,,
+1527674,JM Sharma,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",0,1,0,0,0.0,0,0,JM Sharma,caught
+1527674,Nithish Kumar Reddy,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,6,0,0,16.67,0,0,Nithish Kumar Reddy,caught
+1527674,PD Salt,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",8,7,2,0,114.29,0,0,PD Salt,caught
+1527674,RM Patidar,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",31,15,2,3,206.67,0,0,RM Patidar,caught
+1527674,S Arora,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",9,6,0,1,150.0,0,0,S Arora,caught
+1527674,TH David,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",16,12,1,1,133.33,0,0,,
+1527674,TM Head,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",11,9,2,0,122.22,0,0,TM Head,caught
+1527674,V Kohli,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",69,40,5,5,172.5,0,1,,
+1527675,A Raghuvanshi,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai",51,30,6,2,170.0,0,1,A Raghuvanshi,caught
+1527675,AM Rahane,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai",67,43,3,5,155.81,0,1,AM Rahane,caught
+1527675,C Green,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai",18,10,1,1,180.0,0,0,C Green,caught
+1527675,FH Allen,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai",37,18,6,2,205.56,0,0,FH Allen,caught
+1527675,HH Pandya,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",18,11,3,0,163.64,0,0,,
+1527675,Naman Dhir,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",5,2,1,0,250.0,0,0,,
+1527675,RD Rickelton,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",81,44,4,8,184.09,0,1,RD Rickelton,run out
+1527675,RG Sharma,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",78,39,6,6,200.0,0,1,RG Sharma,caught
+1527675,RK Singh,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai",33,23,4,0,143.48,0,0,,
+1527675,Ramandeep Singh,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai",4,4,0,0,100.0,0,0,,
+1527675,SA Yadav,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",16,9,3,0,177.78,0,0,SA Yadav,caught
+1527675,Tilak Varma,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",20,14,4,0,142.86,0,0,Tilak Varma,caught
+1527676,A Kamboj,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",7,10,1,0,70.0,0,0,,
+1527676,A Mhatre,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",0,1,0,0,0.0,0,0,A Mhatre,caught
+1527676,Dhruv Jurel,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",18,9,4,0,200.0,0,0,Dhruv Jurel,bowled
+1527676,J Overton,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",43,37,2,2,116.22,0,0,J Overton,run out
+1527676,Kartik Sharma,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",18,16,0,1,112.5,0,0,Kartik Sharma,lbw
+1527676,MJ Henry,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",5,7,1,0,71.43,0,0,MJ Henry,caught and bowled
+1527676,MW Short,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",2,8,0,0,25.0,0,0,MW Short,caught
+1527676,Noor Ahmad,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",1,9,0,0,11.11,0,0,Noor Ahmad,caught
+1527676,R Parag,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",14,12,1,1,116.67,0,0,,
+1527676,RD Gaikwad,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",6,13,1,0,46.15,0,0,RD Gaikwad,bowled
+1527676,S Dube,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",6,4,0,1,150.0,0,0,S Dube,caught
+1527676,SN Khan,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",17,13,2,1,130.77,0,0,SN Khan,lbw
+1527676,SV Samson,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",6,7,1,0,85.71,0,0,SV Samson,bowled
+1527676,V Suryavanshi,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",52,17,4,5,305.88,0,1,V Suryavanshi,caught
+1527676,YBK Jaiswal,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",38,36,3,1,105.56,0,0,,
+1527677,B Sai Sudharsan,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",13,12,2,0,108.33,0,0,B Sai Sudharsan,caught
+1527677,C Connolly,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",72,46,5,5,156.52,0,1,,
+1527677,GD Phillips,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",25,17,1,1,147.06,0,0,GD Phillips,caught
+1527677,JC Buttler,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",38,33,3,2,115.15,0,0,JC Buttler,caught
+1527677,M Jansen,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",9,12,0,1,75.0,0,0,M Jansen,caught
+1527677,M Shahrukh Khan,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,6,0,0,66.67,0,0,M Shahrukh Khan,caught
+1527677,MP Stoinis,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,2,0,0,0.0,0,0,MP Stoinis,caught
+1527677,N Wadhera,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,6,0,0,50.0,0,0,N Wadhera,caught
+1527677,P Simran Singh,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",37,24,1,4,154.17,0,0,P Simran Singh,caught
+1527677,Priyansh Arya,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,8,0,1,87.5,0,0,Priyansh Arya,caught
+1527677,R Tewatia,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",11,12,1,0,91.67,0,0,,
+1527677,Rashid Khan,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,4,0,0,0.0,0,0,,
+1527677,SS Iyer,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",18,11,0,2,163.64,0,0,SS Iyer,caught
+1527677,Shashank Singh,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,5,0,0,80.0,0,0,Shashank Singh,caught
+1527677,Shubman Gill,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",39,29,6,0,134.48,0,0,Shubman Gill,caught
+1527677,Washington Sundar,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",18,18,2,0,100.0,0,0,Washington Sundar,caught
+1527677,XC Bartlett,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",11,5,0,1,220.0,0,0,,
+1527678,A Badoni,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,3,0,0,0.0,0,0,A Badoni,caught
+1527678,A Nortje,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,A Nortje,caught
+1527678,AK Markram,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",11,8,1,1,137.5,0,0,AK Markram,bowled
+1527678,AR Patel,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,2,0,0,0.0,0,0,AR Patel,bowled
+1527678,Abdul Samad,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",36,25,3,1,144.0,0,0,Abdul Samad,caught
+1527678,KL Rahul,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,KL Rahul,caught
+1527678,MD Choudhary,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",14,11,2,0,127.27,0,0,MD Choudhary,caught and bowled
+1527678,MR Marsh,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",35,29,2,3,120.69,0,0,RR Pant,run out
+1527678,Mohammed Shami,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,2,0,0,50.0,0,0,Mohammed Shami,caught
+1527678,Mohsin Khan,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,Mohsin Khan,caught
+1527678,N Pooran,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",8,8,1,0,100.0,0,0,N Pooran,bowled
+1527678,N Rana,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",15,21,2,1,71.43,0,0,N Rana,caught
+1527678,P Nissanka,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,7,0,0,14.29,0,0,P Nissanka,caught
+1527678,RR Pant,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",7,10,1,0,70.0,0,0,,
+1527678,Sameer Rizvi,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",70,51,5,4,137.25,0,1,,
+1527678,Shahbaz Ahmed,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",15,16,1,0,93.75,0,0,,
+1527678,T Stubbs,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",39,33,3,1,118.18,0,0,,
+1527679,A Raghuvanshi,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",52,31,6,2,167.74,0,1,C Green,run out
+1527679,AM Rahane,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",8,11,0,0,72.73,0,0,AM Rahane,caught
+1527679,AS Roy,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",0,2,0,0,0.0,0,0,AS Roy,caught and bowled
+1527679,Abhishek Sharma,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",48,22,4,4,218.18,0,0,Abhishek Sharma,caught
+1527679,Aniket Verma,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,5,0,0,20.0,0,0,Aniket Verma,caught
+1527679,C Green,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",2,3,0,0,66.67,0,0,,
+1527679,CV Varun,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",0,1,0,0,0.0,0,0,CV Varun,bowled
+1527679,FH Allen,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",28,7,4,2,400.0,0,0,FH Allen,caught and bowled
+1527679,H Klaasen,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",52,39,4,1,133.33,0,1,H Klaasen,caught
+1527679,Harsh Dubey,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",9,4,2,0,225.0,0,0,,
+1527679,Ishan Kishan,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",14,9,3,0,155.56,0,0,Ishan Kishan,caught
+1527679,Kartik Tyagi,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",5,5,1,0,100.0,0,0,Kartik Tyagi,caught
+1527679,Nithish Kumar Reddy,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",39,24,4,1,162.5,0,0,Nithish Kumar Reddy,caught
+1527679,RK Singh,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",35,25,4,1,140.0,0,0,RK Singh,run out
+1527679,Ramandeep Singh,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",10,9,1,0,111.11,0,0,Ramandeep Singh,caught
+1527679,S Arora,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,1,0,0,0.0,0,0,S Arora,bowled
+1527679,SP Narine,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",12,6,0,2,200.0,0,0,SP Narine,caught
+1527679,Shivang Kumar,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",4,2,1,0,200.0,0,0,Shivang Kumar,caught
+1527679,TM Head,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",46,23,6,3,200.0,0,0,TM Head,caught
+1527679,VG Arora,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",1,2,0,0,50.0,0,0,,
+1527680,A Mhatre,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",73,46,6,5,158.7,0,1,A Mhatre,caught
+1527680,C Connolly,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",36,22,6,0,163.64,0,0,C Connolly,caught
+1527680,Kartik Sharma,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",1,3,0,0,33.33,0,0,Kartik Sharma,lbw
+1527680,MP Stoinis,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",9,3,2,0,300.0,0,0,,
+1527680,N Wadhera,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",10,9,0,1,111.11,0,0,N Wadhera,caught
+1527680,P Simran Singh,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",43,36,6,1,119.44,0,0,P Simran Singh,run out
+1527680,PR Veer,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",6,7,1,0,85.71,0,0,,
+1527680,Priyansh Arya,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",39,12,3,4,325.0,0,0,Priyansh Arya,bowled
+1527680,RD Gaikwad,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",28,22,2,0,127.27,0,0,RD Gaikwad,caught
+1527680,S Dube,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",45,32,5,1,140.63,0,0,,
+1527680,SN Khan,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",32,13,6,1,246.15,0,0,SN Khan,caught
+1527680,SS Iyer,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",50,31,4,3,161.29,0,1,SS Iyer,caught
+1527680,SV Samson,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",7,8,1,0,87.5,0,0,SV Samson,caught
+1527680,Shashank Singh,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",14,7,2,0,200.0,0,0,,
+1527681,C Bosch,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",11,4,2,0,275.0,0,0,,
+1527681,DA Miller,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",21,19,4,0,110.53,0,0,,
+1527681,KL Rahul,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",1,3,0,0,33.33,0,0,KL Rahul,caught
+1527681,MJ Santner,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",18,14,2,0,128.57,0,0,,
+1527681,N Rana,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",0,3,0,0,0.0,0,0,N Rana,run out
+1527681,Naman Dhir,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",28,21,2,1,133.33,0,0,Naman Dhir,caught
+1527681,P Nissanka,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",44,30,6,1,146.67,0,0,P Nissanka,caught
+1527681,RD Rickelton,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",9,11,2,0,81.82,0,0,RD Rickelton,caught
+1527681,RG Sharma,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",35,27,5,1,129.63,0,0,RG Sharma,caught
+1527681,SA Yadav,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",51,38,3,2,134.21,0,1,SA Yadav,lbw
+1527681,SE Rutherford,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",5,7,1,0,71.43,0,0,SE Rutherford,caught
+1527681,Sameer Rizvi,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",90,54,7,7,166.67,0,1,Sameer Rizvi,caught
+1527681,T Stubbs,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",3,4,0,0,75.0,0,0,,
+1527681,Tilak Varma,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",0,2,0,0,0.0,0,0,Tilak Varma,caught and bowled
+1527682,Ashok Sharma,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,,
+1527682,B Sai Sudharsan,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",73,46,9,3,158.7,0,1,B Sai Sudharsan,caught
+1527682,D Ferreira,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,3,0,0,33.33,0,0,D Ferreira,caught
+1527682,Dhruv Jurel,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",75,46,5,5,163.04,0,1,Dhruv Jurel,caught
+1527682,GD Phillips,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",3,4,0,0,75.0,0,0,GD Phillips,caught
+1527682,JC Archer,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,2,0,0,50.0,0,0,,
+1527682,JC Buttler,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",26,14,5,0,185.71,0,0,JC Buttler,caught
+1527682,K Rabada,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",23,17,1,2,135.29,0,0,,
+1527682,Kumar Kushagra,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",18,14,3,0,128.57,0,0,Kumar Kushagra,caught
+1527682,M Shahrukh Khan,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",11,4,1,1,275.0,0,0,,
+1527682,R Parag,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",8,4,0,1,200.0,0,0,R Parag,caught
+1527682,R Tewatia,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",12,6,1,1,200.0,0,0,R Tewatia,caught
+1527682,RA Jadeja,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",7,8,1,0,87.5,0,0,,
+1527682,Rashid Khan,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",24,16,3,0,150.0,0,0,Rashid Khan,run out
+1527682,SO Hetmyer,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",18,9,1,2,200.0,0,0,SO Hetmyer,caught
+1527682,V Suryavanshi,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",31,20,5,1,155.0,0,0,V Suryavanshi,caught
+1527682,Washington Sundar,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",4,2,1,0,200.0,0,0,Washington Sundar,caught
+1527682,YBK Jaiswal,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",55,37,6,3,148.65,0,1,YBK Jaiswal,bowled
+1527683,A Badoni,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",12,9,1,0,133.33,0,0,A Badoni,stumped
+1527683,AK Markram,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",45,27,6,2,166.67,0,0,AK Markram,caught
+1527683,Abdul Samad,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",16,12,2,0,133.33,0,0,Abdul Samad,caught
+1527683,Abhishek Sharma,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,2,0,0,0.0,0,0,Abhishek Sharma,caught
+1527683,Aniket Verma,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5,0,0,40.0,0,0,HV Patel,run out
+1527683,H Klaasen,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",62,42,5,2,147.62,0,1,H Klaasen,caught
+1527683,HV Patel,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",4,2,1,0,200.0,0,0,,
+1527683,Harsh Dubey,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,1,0,0,0.0,0,0,Harsh Dubey,bowled
+1527683,Ishan Kishan,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4,0,0,25.0,0,0,Ishan Kishan,bowled
+1527683,LS Livingstone,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",14,21,0,1,66.67,0,0,LS Livingstone,caught
+1527683,MD Choudhary,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,5,0,0,40.0,0,0,,
+1527683,MR Marsh,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",14,12,2,0,116.67,0,0,MR Marsh,caught
+1527683,N Pooran,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,4,0,0,25.0,0,0,N Pooran,run out
+1527683,Nithish Kumar Reddy,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",56,34,3,5,164.71,0,1,Nithish Kumar Reddy,caught
+1527683,RR Pant,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",68,50,9,0,136.0,0,1,,
+1527683,Shivang Kumar,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",5,4,1,0,125.0,0,0,Shivang Kumar,bowled
+1527683,TM Head,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",7,8,1,0,87.5,0,0,TM Head,caught
+1527684,A Kamboj,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",19,13,1,1,146.15,0,0,,
+1527684,A Mhatre,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,3,0,0,33.33,0,0,A Mhatre,caught
+1527684,D Padikkal,Royal Challengers Bengaluru,Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",50,30,5,2,166.67,0,1,D Padikkal,bowled
+1527684,J Overton,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",37,16,4,2,231.25,0,0,J Overton,caught
+1527684,Kartik Sharma,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",6,3,0,1,200.0,0,0,Kartik Sharma,caught
+1527684,MJ Henry,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,3,0,0,66.67,0,0,MJ Henry,caught
+1527684,Noor Ahmad,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",8,9,0,1,88.89,0,0,Noor Ahmad,caught
+1527684,PD Salt,Royal Challengers Bengaluru,Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",46,31,3,2,148.39,0,0,PD Salt,caught
+1527684,PR Veer,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",43,29,6,1,148.28,0,0,PR Veer,caught
+1527684,RD Gaikwad,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",7,3,0,1,233.33,0,0,RD Gaikwad,caught
+1527684,RM Patidar,Royal Challengers Bengaluru,Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",48,20,1,6,240.0,0,0,,
+1527684,S Dube,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",18,13,2,1,138.46,0,0,S Dube,caught
+1527684,SN Khan,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",50,26,8,2,192.31,0,1,SN Khan,stumped
+1527684,SV Samson,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",9,5,0,1,180.0,0,0,SV Samson,caught
+1527684,TH David,Royal Challengers Bengaluru,Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",70,25,3,8,280.0,0,1,,
+1527684,V Kohli,Royal Challengers Bengaluru,Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",28,18,2,1,155.56,0,0,V Kohli,caught
+1527685,A Raghuvanshi,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",7,7,0,0,100.0,0,0,,
+1527685,AM Rahane,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",8,6,1,0,133.33,0,0,,
+1527685,C Green,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",4,2,1,0,200.0,0,0,C Green,caught
+1527685,FH Allen,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",6,7,1,0,85.71,0,0,FH Allen,caught
+1527686,DL Chahar,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",6,5,1,0,120.0,0,0,,
+1527686,Dhruv Jurel,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",2,3,0,0,66.67,0,0,Dhruv Jurel,lbw
+1527686,HH Pandya,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",9,6,2,0,150.0,0,0,HH Pandya,caught
+1527686,JJ Bumrah,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",5,2,1,0,250.0,0,0,,
+1527686,Naman Dhir,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",25,13,3,1,192.31,0,0,Naman Dhir,caught
+1527686,R Parag,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",20,10,1,2,200.0,0,0,R Parag,caught
+1527686,RD Rickelton,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",8,4,0,1,200.0,0,0,RD Rickelton,caught
+1527686,RG Sharma,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",5,6,0,0,83.33,0,0,RG Sharma,lbw
+1527686,SA Yadav,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",6,4,0,1,150.0,0,0,SA Yadav,caught
+1527686,SE Rutherford,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",25,10,2,2,250.0,0,0,SE Rutherford,caught
+1527686,SN Thakur,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",8,9,1,0,88.89,0,0,SN Thakur,caught
+1527686,SO Hetmyer,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",6,8,0,0,75.0,0,0,,
+1527686,TA Boult,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",1,2,0,0,50.0,0,0,TA Boult,run out
+1527686,Tilak Varma,Mumbai Indians,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",14,11,2,0,127.27,0,0,Tilak Varma,caught
+1527686,V Suryavanshi,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",39,15,1,5,260.0,0,0,V Suryavanshi,caught
+1527686,YBK Jaiswal,Rajasthan Royals,Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",77,36,10,4,213.89,0,1,,
+1527687,AR Patel,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",2,3,0,0,66.67,0,0,AR Patel,caught
+1527687,B Sai Sudharsan,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",12,8,2,0,150.0,0,0,B Sai Sudharsan,bowled
+1527687,DA Miller,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",41,22,3,3,186.36,0,0,Kuldeep Yadav,run out
+1527687,GD Phillips,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",14,10,1,1,140.0,0,0,,
+1527687,JC Buttler,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",52,28,3,5,185.71,0,1,JC Buttler,bowled
+1527687,KL Rahul,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",92,57,11,4,161.4,0,1,T Stubbs,run out
+1527687,Kuldeep Yadav,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",1,1,0,0,100.0,0,0,,
+1527687,N Rana,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",5,6,1,0,83.33,0,0,N Rana,caught
+1527687,P Nissanka,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",41,25,6,1,164.0,0,0,P Nissanka,caught
+1527687,R Tewatia,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",1,1,0,0,100.0,0,0,,
+1527687,Sameer Rizvi,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",0,1,0,0,0.0,0,0,Sameer Rizvi,bowled
+1527687,Shubman Gill,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",70,46,4,5,152.17,0,1,Shubman Gill,caught
+1527687,T Stubbs,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",7,6,0,0,116.67,0,0,,
+1527687,V Nigam,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",12,7,2,0,171.43,0,0,V Nigam,caught
+1527687,Washington Sundar,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",55,33,6,2,166.67,0,1,Washington Sundar,caught
+1527688,A Badoni,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",54,35,7,2,154.29,0,1,A Badoni,caught
+1527688,A Raghuvanshi,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",45,35,5,2,128.57,0,0,A Raghuvanshi,caught
+1527688,AK Markram,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",22,16,2,1,137.5,0,0,AK Markram,caught
+1527688,AM Rahane,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",41,24,4,2,170.83,0,0,AM Rahane,caught
+1527688,Abdul Samad,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",2,5,0,0,40.0,0,0,Abdul Samad,bowled
+1527688,Avesh Khan,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,3,0,0,33.33,0,0,,
+1527688,C Green,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",32,25,3,1,128.0,0,0,,
+1527688,FH Allen,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",9,9,2,0,100.0,0,0,FH Allen,caught
+1527688,MD Choudhary,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",54,27,2,7,200.0,0,1,,
+1527688,MR Marsh,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",15,12,1,1,125.0,0,0,MR Marsh,caught
+1527688,Mohammed Shami,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,3,0,0,33.33,0,0,Mohammed Shami,caught
+1527688,N Pooran,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",13,17,0,1,76.47,0,0,N Pooran,caught
+1527688,R Powell,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",39,26,4,2,150.0,0,0,,
+1527688,RK Singh,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",4,7,0,0,57.14,0,0,RK Singh,bowled
+1527688,RR Pant,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",10,9,1,0,111.11,0,0,RR Pant,caught
+1527689,B Kumar,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",9,8,1,0,112.5,0,0,,
+1527689,D Padikkal,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",14,7,3,0,200.0,0,0,D Padikkal,caught
+1527689,Dhruv Jurel,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",81,44,8,3,184.09,0,1,,
+1527689,JM Sharma,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",5,8,0,0,62.5,0,0,JM Sharma,lbw
+1527689,KH Pandya,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",1,6,0,0,16.67,0,0,KH Pandya,caught
+1527689,PD Salt,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",0,1,0,0,0.0,0,0,PD Salt,caught
+1527689,R Parag,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",3,5,0,0,60.0,0,0,R Parag,caught
+1527689,R Shepherd,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",22,11,2,1,200.0,0,0,R Shepherd,caught
+1527689,RA Jadeja,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",24,26,1,0,92.31,0,0,,
+1527689,RM Patidar,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",63,40,4,4,157.5,0,1,RM Patidar,caught
+1527689,SO Hetmyer,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",0,1,0,0,0.0,0,0,SO Hetmyer,caught
+1527689,TH David,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",13,9,2,0,144.44,0,0,TH David,caught
+1527689,V Kohli,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",32,17,7,0,188.24,0,0,V Kohli,bowled
+1527689,V Suryavanshi,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",78,26,8,7,300.0,0,1,V Suryavanshi,caught
+1527689,VR Iyer,Royal Challengers Bengaluru,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",29,16,1,2,181.25,0,0,,
+1527689,YBK Jaiswal,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",13,8,0,2,162.5,0,0,YBK Jaiswal,caught
+1527690,Abhishek Sharma,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",74,34,5,8,217.65,0,1,Abhishek Sharma,caught
+1527690,Aniket Verma,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",18,9,1,1,200.0,0,0,Aniket Verma,run out
+1527690,C Connolly,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",11,13,1,0,84.62,0,0,C Connolly,caught
+1527690,H Klaasen,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",39,37,1,1,105.41,0,0,H Klaasen,caught
+1527690,Harsh Dubey,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,2,0,0,50.0,0,0,,
+1527690,Ishan Kishan,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",27,17,3,1,158.82,0,0,Ishan Kishan,caught
+1527690,N Wadhera,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",14,14,0,1,100.0,0,0,N Wadhera,bowled
+1527690,Nithish Kumar Reddy,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,1,0,0,0.0,0,0,,
+1527690,P Simran Singh,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",51,27,4,4,188.89,0,1,P Simran Singh,caught
+1527690,Priyansh Arya,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",57,21,5,5,271.43,0,1,Priyansh Arya,caught
+1527690,S Arora,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",9,8,0,1,112.5,0,0,S Arora,caught
+1527690,SS Iyer,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",69,34,5,5,202.94,0,1,,
+1527690,Shashank Singh,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,9,1,1,177.78,0,0,,
+1527690,TM Head,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",38,24,5,1,158.33,0,0,TM Head,caught
+1527691,A Mhatre,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",59,36,3,4,163.89,0,1,,
+1527691,AR Patel,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",1,2,0,0,50.0,0,0,AR Patel,caught
+1527691,Ashutosh Sharma,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",19,10,1,2,190.0,0,0,Ashutosh Sharma,caught
+1527691,Auqib Nabi,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",4,2,1,0,200.0,0,0,Auqib Nabi,caught
+1527691,DA Miller,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",17,18,1,1,94.44,0,0,DA Miller,bowled
+1527691,KL Rahul,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",18,10,2,1,180.0,0,0,KL Rahul,caught
+1527691,Kuldeep Yadav,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",4,7,0,0,57.14,0,0,Kuldeep Yadav,caught
+1527691,L Ngidi,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",3,5,0,0,60.0,0,0,L Ngidi,caught
+1527691,P Nissanka,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",41,24,5,2,170.83,0,0,P Nissanka,caught
+1527691,RD Gaikwad,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",15,18,1,0,83.33,0,0,RD Gaikwad,caught
+1527691,S Dube,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",20,10,2,1,200.0,0,0,,
+1527691,SV Samson,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",115,59,15,4,194.92,1,0,A Mhatre,retired out
+1527691,Sameer Rizvi,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",6,9,1,0,66.67,0,0,Sameer Rizvi,caught
+1527691,T Natarajan,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",1,2,0,0,50.0,0,0,,
+1527691,T Stubbs,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",60,40,4,3,150.0,0,1,T Stubbs,caught
+1527692,A Badoni,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",9,12,1,0,75.0,0,0,A Badoni,caught
+1527692,AK Markram,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",30,21,5,1,142.86,0,0,AK Markram,caught
+1527692,Abdul Samad,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",18,22,2,0,81.82,0,0,Abdul Samad,caught
+1527692,Avesh Khan,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",4,2,1,0,200.0,0,0,,
+1527692,B Sai Sudharsan,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",15,14,3,0,107.14,0,0,B Sai Sudharsan,caught
+1527692,GF Linde,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",16,10,3,0,160.0,0,0,GF Linde,caught
+1527692,JC Buttler,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",60,38,11,0,157.89,0,1,JC Buttler,caught
+1527692,MD Choudhary,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",18,14,1,1,128.57,0,0,MD Choudhary,caught
+1527692,MR Marsh,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",11,4,1,1,275.0,0,0,MR Marsh,caught
+1527692,Mohammed Shami,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",12,5,1,1,240.0,0,0,,
+1527692,N Pooran,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",19,21,0,2,90.48,0,0,N Pooran,caught
+1527692,R Tewatia,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",10,9,1,0,111.11,0,0,,
+1527692,RR Pant,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",18,11,2,1,163.64,0,0,RR Pant,caught
+1527692,Shubman Gill,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",56,41,6,1,136.59,0,1,Shubman Gill,caught
+1527692,Washington Sundar,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",21,13,2,1,161.54,0,0,,
+1527693,HH Pandya,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",40,24,6,1,166.67,0,0,HH Pandya,caught
+1527693,JM Sharma,Royal Challengers Bengaluru,Mumbai Indians,"Wankhede Stadium, Mumbai",10,9,1,0,111.11,0,0,JM Sharma,lbw
+1527693,MJ Santner,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",8,7,1,0,114.29,0,0,,
+1527693,Naman Dhir,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",1,2,0,0,50.0,0,0,Naman Dhir,caught
+1527693,PD Salt,Royal Challengers Bengaluru,Mumbai Indians,"Wankhede Stadium, Mumbai",78,38,6,6,205.26,0,1,PD Salt,caught
+1527693,R Shepherd,Royal Challengers Bengaluru,Mumbai Indians,"Wankhede Stadium, Mumbai",2,2,0,0,100.0,0,0,,
+1527693,RD Rickelton,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",37,22,3,3,168.18,0,0,RD Rickelton,caught
+1527693,RG Sharma,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",19,14,2,1,135.71,0,0,RG Sharma,retired hurt
+1527693,RM Patidar,Royal Challengers Bengaluru,Mumbai Indians,"Wankhede Stadium, Mumbai",53,26,4,5,203.85,0,1,RM Patidar,caught
+1527693,SA Yadav,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",33,22,5,0,150.0,0,0,SA Yadav,caught
+1527693,SE Rutherford,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",71,36,1,9,197.22,0,1,,
+1527693,TH David,Royal Challengers Bengaluru,Mumbai Indians,"Wankhede Stadium, Mumbai",34,16,2,3,212.5,0,0,,
+1527693,Tilak Varma,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",1,3,0,0,33.33,0,0,Tilak Varma,caught
+1527693,V Kohli,Royal Challengers Bengaluru,Mumbai Indians,"Wankhede Stadium, Mumbai",50,41,5,1,121.95,0,1,V Kohli,caught
+1529264,Abhishek Sharma,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,1,0,0,0.0,0,0,Abhishek Sharma,caught
+1529264,Aniket Verma,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",6,6,1,0,100.0,0,0,,
+1529264,D Ferreira,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",69,45,8,3,153.33,0,1,D Ferreira,bowled
+1529264,Dhruv Jurel,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,2,0,0,0.0,0,0,Dhruv Jurel,bowled
+1529264,H Klaasen,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",40,28,1,3,142.86,0,0,H Klaasen,caught
+1529264,Ishan Kishan,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",91,46,8,6,197.83,0,1,Ishan Kishan,caught and bowled
+1529264,JC Archer,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6,0,0,33.33,0,0,JC Archer,caught
+1529264,LG Pretorius,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,2,0,0,0.0,0,0,LG Pretorius,caught
+1529264,N Burger,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",3,5,0,0,60.0,0,0,,
+1529264,Nithish Kumar Reddy,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",28,14,0,4,200.0,0,0,Nithish Kumar Reddy,caught
+1529264,R Parag,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",4,7,1,0,57.14,0,0,R Parag,caught
+1529264,RA Jadeja,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",45,37,5,0,121.62,0,0,RA Jadeja,caught
+1529264,Ravi Bishnoi,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,1,0,0,0.0,0,0,Ravi Bishnoi,caught
+1529264,S Arora,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",24,15,2,2,160.0,0,0,Aniket Verma,run out
+1529264,TM Head,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",18,18,3,0,100.0,0,0,TM Head,caught
+1529264,TU Deshpande,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",25,11,0,3,227.27,0,0,TU Deshpande,caught
+1529264,V Suryavanshi,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,1,0,0,0.0,0,0,V Suryavanshi,caught
+1529264,YBK Jaiswal,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,6,0,0,16.67,0,0,YBK Jaiswal,caught
+1529265,A Mhatre,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",38,17,6,2,223.53,0,0,A Mhatre,caught
+1529265,A Raghuvanshi,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",27,19,3,1,142.11,0,0,A Raghuvanshi,caught
+1529265,AM Rahane,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",28,23,0,2,121.74,0,0,AM Rahane,caught
+1529265,AS Roy,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",1,1,0,0,100.0,0,0,,
+1529265,C Green,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",0,1,0,0,0.0,0,0,C Green,bowled
+1529265,D Brevis,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",41,33,4,2,124.24,0,0,D Brevis,caught
+1529265,FH Allen,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",1,3,0,0,33.33,0,0,FH Allen,caught
+1529265,J Overton,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",7,6,1,0,116.67,0,0,,
+1529265,R Powell,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",31,24,1,2,129.17,0,0,,
+1529265,RD Gaikwad,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",7,8,1,0,87.5,0,0,RD Gaikwad,caught
+1529265,RK Singh,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",6,12,0,0,50.0,0,0,RK Singh,caught
+1529265,Ramandeep Singh,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",35,25,4,1,140.0,0,0,Ramandeep Singh,caught
+1529265,S Dube,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",13,15,1,0,86.67,0,0,,
+1529265,SN Khan,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",23,19,1,2,121.05,0,0,SN Khan,bowled
+1529265,SP Narine,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",24,17,2,2,141.18,0,0,SP Narine,caught
+1529265,SV Samson,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",48,32,4,3,150.0,0,0,SV Samson,bowled
+1529266,A Badoni,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",38,24,4,1,158.33,0,0,A Badoni,caught
+1529266,AK Markram,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",12,8,0,1,150.0,0,0,AK Markram,caught
+1529266,Abdul Samad,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,2,0,0,0.0,0,0,Abdul Samad,caught
+1529266,Avesh Khan,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,2,0,0,50.0,0,0,Avesh Khan,bowled
+1529266,D Padikkal,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",10,11,1,0,90.91,0,0,D Padikkal,caught
+1529266,DS Rathi,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,3,0,0,0.0,0,0,,
+1529266,GF Linde,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",7,7,1,0,100.0,0,0,GF Linde,caught
+1529266,JM Sharma,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",23,9,2,2,255.56,0,0,JM Sharma,caught
+1529266,MD Choudhary,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",39,30,3,2,130.0,0,0,MD Choudhary,bowled
+1529266,MR Marsh,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",40,34,3,2,117.65,0,0,MR Marsh,bowled
+1529266,Mohammed Shami,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",0,1,0,0,0.0,0,0,Mohammed Shami,bowled
+1529266,N Pooran,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,7,0,0,14.29,0,0,N Pooran,bowled
+1529266,PD Salt,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",7,8,1,0,87.5,0,0,PD Salt,bowled
+1529266,R Shepherd,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",14,8,1,1,175.0,0,0,,
+1529266,RM Patidar,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",27,13,1,3,207.69,0,0,RM Patidar,caught
+1529266,RR Pant,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,6,0,0,16.67,0,0,RR Pant,caught
+1529266,TH David,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",14,8,1,1,175.0,0,0,,
+1529266,V Kohli,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",49,35,6,1,140.0,0,0,V Kohli,caught
+1529267,C Connolly,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",17,12,1,2,141.67,0,0,C Connolly,caught
+1529267,HH Pandya,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",14,12,0,1,116.67,0,0,HH Pandya,caught
+1529267,MP Stoinis,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",10,8,2,0,125.0,0,0,,
+1529267,Naman Dhir,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",50,31,3,3,161.29,0,1,Naman Dhir,caught
+1529267,P Simran Singh,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",80,42,11,2,190.48,0,1,,
+1529267,Priyansh Arya,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",15,10,2,1,150.0,0,0,Priyansh Arya,caught
+1529267,Q de Kock,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",112,64,8,7,175.0,1,0,,
+1529267,RD Rickelton,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",2,8,0,0,25.0,0,0,RD Rickelton,caught
+1529267,SA Yadav,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",0,1,0,0,0.0,0,0,SA Yadav,caught
+1529267,SE Rutherford,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",1,5,0,0,20.0,0,0,SE Rutherford,bowled
+1529267,SS Iyer,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",66,37,5,4,178.38,0,1,SS Iyer,caught
+1529267,Tilak Varma,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",8,3,2,0,266.67,0,0,Tilak Varma,run out
+1529268,A Raghuvanshi,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",8,5,2,0,160.0,0,0,A Raghuvanshi,caught
+1529268,AM Rahane,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,AM Rahane,caught
+1529268,AS Roy,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",9,7,1,0,128.57,0,0,AS Roy,caught
+1529268,B Sai Sudharsan,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",22,16,1,2,137.5,0,0,B Sai Sudharsan,caught
+1529268,C Green,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",79,59,7,4,133.9,0,1,C Green,caught
+1529268,GD Phillips,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",19,18,2,0,105.56,0,0,GD Phillips,caught
+1529268,JC Buttler,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",25,15,2,2,166.67,0,0,JC Buttler,caught
+1529268,Kartik Tyagi,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",6,4,0,1,150.0,0,0,Kartik Tyagi,run out
+1529268,M Shahrukh Khan,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",3,2,0,0,150.0,0,0,,
+1529268,R Powell,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",27,21,2,2,128.57,0,0,R Powell,caught
+1529268,R Tewatia,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",7,6,0,0,116.67,0,0,,
+1529268,RK Singh,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,2,0,0,50.0,0,0,RK Singh,caught
+1529268,Ramandeep Singh,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",17,8,2,1,212.5,0,0,Ramandeep Singh,caught
+1529268,SP Narine,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,5,0,0,0.0,0,0,SP Narine,caught
+1529268,Shubman Gill,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",86,51,8,4,168.63,0,1,Shubman Gill,caught
+1529268,TL Seifert,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",19,14,2,1,135.71,0,0,TL Seifert,caught
+1529268,VG Arora,Kolkata Knight Riders,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,,
+1529268,Washington Sundar,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",13,14,1,0,92.86,0,0,Washington Sundar,caught
+1529269,AR Patel,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",26,19,3,0,136.84,0,0,AR Patel,retired hurt
+1529269,B Kumar,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",3,2,0,0,150.0,0,0,,
+1529269,D Padikkal,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",18,14,1,1,128.57,0,0,D Padikkal,caught
+1529269,DA Miller,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",22,10,1,2,220.0,0,0,,
+1529269,JM Sharma,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",14,21,1,0,66.67,0,0,JM Sharma,caught
+1529269,KH Pandya,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",12,12,0,1,100.0,0,0,KH Pandya,run out
+1529269,KK Nair,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",5,5,1,0,100.0,0,0,KK Nair,caught
+1529269,KL Rahul,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",57,35,6,2,162.86,0,1,KL Rahul,caught
+1529269,P Nissanka,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",1,2,0,0,50.0,0,0,P Nissanka,lbw
+1529269,PD Salt,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",63,38,4,3,165.79,0,1,PD Salt,caught
+1529269,R Shepherd,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",1,4,0,0,25.0,0,0,R Shepherd,lbw
+1529269,RM Patidar,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",8,5,0,1,160.0,0,0,RM Patidar,caught
+1529269,Sameer Rizvi,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",2,3,0,0,66.67,0,0,Sameer Rizvi,caught
+1529269,T Stubbs,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",60,48,4,1,125.0,0,1,,
+1529269,TH David,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",26,18,3,1,144.44,0,0,TH David,caught
+1529269,V Kohli,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",19,15,3,0,126.67,0,0,V Kohli,caught
+1529270,A Kamboj,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",13,9,0,1,144.44,0,0,,
+1529270,A Mhatre,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",30,16,5,1,187.5,0,0,A Mhatre,caught
+1529270,Abhishek Sharma,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",59,23,6,4,256.52,0,1,Abhishek Sharma,caught
+1529270,Aniket Verma,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,4,0,0,50.0,0,0,Aniket Verma,caught
+1529270,D Brevis,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,4,0,0,0.0,0,0,D Brevis,caught
+1529270,H Klaasen,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",59,40,6,2,147.5,0,1,H Klaasen,bowled
+1529270,Ishan Kishan,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,1,0,0,0.0,0,0,Ishan Kishan,caught
+1529270,J Overton,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",16,16,1,0,100.0,0,0,J Overton,caught
+1529270,LS Livingstone,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,5,0,0,20.0,0,0,LS Livingstone,caught
+1529270,MW Short,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",34,31,3,0,109.68,0,0,MW Short,caught
+1529270,Nithish Kumar Reddy,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",12,8,0,1,150.0,0,0,Nithish Kumar Reddy,caught
+1529270,Noor Ahmad,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1,0,0,100.0,0,0,,
+1529270,PP Hinge,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,1,0,0,0.0,0,0,,
+1529270,RD Gaikwad,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",19,16,3,0,118.75,0,0,RD Gaikwad,caught
+1529270,S Arora,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",13,12,2,0,108.33,0,0,S Arora,caught
+1529270,S Dube,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",21,17,1,1,123.53,0,0,S Dube,bowled
+1529270,SN Khan,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",25,20,3,0,125.0,0,0,SN Khan,caught
+1529270,SV Samson,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",7,3,0,1,233.33,0,0,SV Samson,caught
+1529270,Shivang Kumar,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",12,9,1,1,133.33,0,0,Shivang Kumar,caught
+1529270,TM Head,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",23,21,3,1,109.52,0,0,TM Head,caught
+1529271,A Raghuvanshi,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",10,20,1,0,50.0,0,0,A Raghuvanshi,lbw
+1529271,AM Rahane,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",0,2,0,0,0.0,0,0,AM Rahane,caught
+1529271,AS Roy,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",29,17,1,2,170.59,0,0,,
+1529271,Brijesh Sharma,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,3,0,0,33.33,0,0,,
+1529271,C Green,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",27,14,4,1,192.86,0,0,C Green,stumped
+1529271,D Ferreira,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",7,7,0,1,100.0,0,0,D Ferreira,caught and bowled
+1529271,Dhruv Jurel,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",5,7,0,0,71.43,0,0,Dhruv Jurel,stumped
+1529271,JC Archer,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",8,6,1,0,133.33,0,0,JC Archer,run out
+1529271,R Parag,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",12,14,1,0,85.71,0,0,R Parag,bowled
+1529271,R Powell,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",23,21,2,1,109.52,0,0,R Powell,caught
+1529271,RA Jadeja,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",9,9,1,0,100.0,0,0,RA Jadeja,caught
+1529271,RK Singh,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",53,38,5,2,139.47,0,1,,
+1529271,Ramandeep Singh,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",10,13,1,0,76.92,0,0,Ramandeep Singh,bowled
+1529271,Ravi Bishnoi,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,2,0,0,0.0,0,0,Ravi Bishnoi,caught
+1529271,SO Hetmyer,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",15,19,0,0,78.95,0,0,SO Hetmyer,caught
+1529271,TL Seifert,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",0,1,0,0,0.0,0,0,TL Seifert,bowled
+1529271,V Suryavanshi,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",46,30,6,2,153.33,0,0,V Suryavanshi,caught
+1529271,YBK Jaiswal,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",39,33,4,2,118.18,0,0,YBK Jaiswal,caught
+1529272,A Badoni,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",35,22,5,1,159.09,0,0,A Badoni,caught
+1529272,AK Markram,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",42,23,3,3,182.61,0,0,AK Markram,caught
+1529272,C Connolly,Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",87,47,8,7,185.11,0,1,C Connolly,caught
+1529272,Himmat Singh,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,1,0,0,100.0,0,0,,
+1529272,M Jansen,Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,1,0,0,100.0,0,0,,
+1529272,MD Choudhary,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",21,17,1,1,123.53,0,0,,
+1529272,MP Stoinis,Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",29,18,2,2,161.11,0,0,MP Stoinis,run out
+1529272,MR Marsh,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",40,29,3,2,137.93,0,0,MR Marsh,caught
+1529272,N Pooran,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",9,10,1,0,90.0,0,0,N Pooran,caught
+1529272,N Wadhera,Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",13,7,1,1,185.71,0,0,N Wadhera,caught
+1529272,P Simran Singh,Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,1,0,0,0.0,0,0,P Simran Singh,caught
+1529272,Priyansh Arya,Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",93,39,4,9,238.46,0,1,Priyansh Arya,caught
+1529272,RR Pant,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",43,25,1,4,172.0,0,0,RR Pant,caught
+1529272,SS Iyer,Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",5,6,0,0,83.33,0,0,SS Iyer,caught
+1529272,Shashank Singh,Punjab Kings,Lucknow Super Giants,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",17,7,1,2,242.86,0,0,Shashank Singh,caught
+1529273,Ashok Sharma,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",1,4,0,0,25.0,0,0,,
+1529273,B Sai Sudharsan,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,B Sai Sudharsan,caught
+1529273,DV Malewar,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",2,4,0,0,50.0,0,0,DV Malewar,lbw
+1529273,GD Phillips,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",6,8,0,0,75.0,0,0,GD Phillips,caught and bowled
+1529273,HH Pandya,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",15,16,1,0,93.75,0,0,HH Pandya,caught
+1529273,JC Buttler,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",5,6,1,0,83.33,0,0,JC Buttler,lbw
+1529273,K Rabada,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",12,14,2,0,85.71,0,0,K Rabada,stumped
+1529273,M Shahrukh Khan,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",17,14,1,1,121.43,0,0,M Shahrukh Khan,caught
+1529273,Mohammed Siraj,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",0,4,0,0,0.0,0,0,Mohammed Siraj,lbw
+1529273,Naman Dhir,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",45,32,6,1,140.63,0,0,Naman Dhir,caught
+1529273,Q de Kock,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",13,11,1,1,118.18,0,0,Q de Kock,caught and bowled
+1529273,R Tewatia,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",8,12,1,0,66.67,0,0,R Tewatia,caught
+1529273,Rashid Khan,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",4,6,0,0,66.67,0,0,Rashid Khan,caught
+1529273,SA Yadav,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",15,11,1,1,136.36,0,0,SA Yadav,bowled
+1529273,SE Rutherford,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,2,0,0,50.0,0,0,,
+1529273,Shubman Gill,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",14,14,3,0,100.0,0,0,Shubman Gill,caught
+1529273,Tilak Varma,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",101,46,8,7,219.57,1,0,,
+1529273,Washington Sundar,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",26,19,5,0,136.84,0,0,Washington Sundar,caught
+1529274,AR Patel,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3,0,0,66.67,0,0,AR Patel,caught
+1529274,Abhishek Sharma,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",135,74,10,10,182.43,1,0,Ishan Kishan,run out
+1529274,Ashutosh Sharma,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",14,12,2,0,116.67,0,0,Ashutosh Sharma,caught
+1529274,DA Miller,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,1,0,0,0.0,0,0,DA Miller,bowled
+1529274,H Klaasen,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",37,13,3,3,284.62,0,0,,
+1529274,Ishan Kishan,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",25,14,2,1,178.57,0,0,,
+1529274,KL Rahul,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",37,24,1,3,154.17,0,0,KL Rahul,caught
+1529274,Kuldeep Yadav,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2,0,0,50.0,0,0,,
+1529274,L Ngidi,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",0,1,0,0,0.0,0,0,L Ngidi,caught
+1529274,N Rana,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",57,34,7,3,167.65,0,1,N Rana,caught
+1529274,P Nissanka,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",8,6,0,1,133.33,0,0,P Nissanka,caught
+1529274,Sameer Rizvi,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",41,28,2,2,146.43,0,0,Sameer Rizvi,caught
+1529274,T Stubbs,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",27,16,3,1,168.75,0,0,T Stubbs,caught
+1529274,TM Head,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",37,27,2,2,137.04,0,0,TM Head,caught
+1529275,A Badoni,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,A Badoni,run out
+1529275,AK Markram,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,6,0,0,0.0,0,0,AK Markram,caught
+1529275,D Ferreira,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",20,19,2,0,105.26,0,0,D Ferreira,caught
+1529275,DS Rathi,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,2,0,0,100.0,0,0,,
+1529275,Dhruv Jurel,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,Dhruv Jurel,caught
+1529275,Himmat Singh,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",15,16,0,1,93.75,0,0,Himmat Singh,bowled
+1529275,MD Choudhary,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",7,3,0,1,233.33,0,0,MD Choudhary,caught
+1529275,MP Yadav,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",5,6,1,0,83.33,0,0,MP Yadav,caught
+1529275,MR Marsh,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",55,42,6,2,130.95,0,1,MR Marsh,caught
+1529275,Mohammed Shami,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",6,4,0,1,150.0,0,0,Mohammed Shami,bowled
+1529275,Mohsin Khan,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,3,0,0,0.0,0,0,Mohsin Khan,bowled
+1529275,N Pooran,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",22,27,3,0,81.48,0,0,N Pooran,caught
+1529275,R Parag,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",20,20,2,1,100.0,0,0,R Parag,caught
+1529275,RA Jadeja,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",43,29,2,1,148.28,0,0,,
+1529275,RR Pant,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,3,0,0,0.0,0,0,RR Pant,caught
+1529275,SB Dubey,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",19,11,3,0,172.73,0,0,,
+1529275,SO Hetmyer,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",22,19,2,1,115.79,0,0,SO Hetmyer,caught
+1529275,V Suryavanshi,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",8,11,2,0,72.73,0,0,V Suryavanshi,caught
+1529275,YBK Jaiswal,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",22,14,4,0,157.14,0,0,YBK Jaiswal,caught
+1529276,AJ Hosein,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",2,2,0,0,100.0,0,0,,
+1529276,Ashwani Kumar,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",1,6,0,0,16.67,0,0,,
+1529276,D Brevis,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",21,12,1,2,175.0,0,0,D Brevis,caught
+1529276,DV Malewar,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",0,1,0,0,0.0,0,0,DV Malewar,caught
+1529276,HH Pandya,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",1,2,0,0,50.0,0,0,HH Pandya,caught
+1529276,J Overton,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",15,8,2,1,187.5,0,0,J Overton,caught
+1529276,JJ Bumrah,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",2,6,0,0,33.33,0,0,JJ Bumrah,caught
+1529276,Kartik Sharma,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",18,20,0,2,90.0,0,0,Kartik Sharma,caught
+1529276,Krish Bhagat,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",7,15,0,0,46.67,0,0,Krish Bhagat,caught
+1529276,Naman Dhir,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",0,3,0,0,0.0,0,0,Naman Dhir,bowled
+1529276,Q de Kock,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",7,10,0,1,70.0,0,0,Q de Kock,bowled
+1529276,RD Gaikwad,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",22,15,3,1,146.67,0,0,RD Gaikwad,caught
+1529276,S Dube,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",5,8,0,0,62.5,0,0,S Dube,bowled
+1529276,SA Yadav,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",36,31,5,0,116.13,0,0,SA Yadav,caught
+1529276,SE Rutherford,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",0,1,0,0,0.0,0,0,SE Rutherford,caught
+1529276,SN Khan,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",14,8,3,0,175.0,0,0,SN Khan,bowled
+1529276,SN Thakur,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",6,12,0,0,50.0,0,0,SN Thakur,caught
+1529276,SV Samson,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",101,55,10,6,183.64,1,0,,
+1529276,Tilak Varma,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",37,32,5,0,115.63,0,0,Tilak Varma,bowled
+1529277,B Sai Sudharsan,Gujarat Titans,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",100,60,11,5,166.67,1,0,B Sai Sudharsan,caught and bowled
+1529277,D Padikkal,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",55,28,2,6,196.43,0,1,D Padikkal,bowled
+1529277,JC Buttler,Gujarat Titans,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",25,16,2,1,156.25,0,0,JC Buttler,caught
+1529277,JG Bethell,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",14,10,3,0,140.0,0,0,JG Bethell,caught
+1529277,JM Sharma,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",10,6,1,1,166.67,0,0,JM Sharma,caught
+1529277,JO Holder,Gujarat Titans,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",23,10,1,2,230.0,0,0,,
+1529277,KH Pandya,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",23,12,3,1,191.67,0,0,,
+1529277,RM Patidar,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",8,5,0,1,160.0,0,0,RM Patidar,caught
+1529277,Shubman Gill,Gujarat Titans,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",32,25,2,1,128.0,0,0,Shubman Gill,caught
+1529277,TH David,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",10,10,0,1,100.0,0,0,,
+1529277,V Kohli,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",81,45,8,4,180.0,0,1,V Kohli,bowled
+1529277,Washington Sundar,Gujarat Titans,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",19,12,1,1,158.33,0,0,,
+1529278,C Connolly,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",17,10,1,1,170.0,0,0,C Connolly,bowled
+1529278,DA Miller,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",3,3,0,0,100.0,0,0,,
+1529278,KL Rahul,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",152,72,16,9,211.11,1,0,,
+1529278,N Rana,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",91,45,11,4,202.22,0,1,N Rana,caught
+1529278,N Wadhera,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",25,19,3,1,131.58,0,0,N Wadhera,caught
+1529278,P Nissanka,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",11,7,2,0,157.14,0,0,P Nissanka,caught
+1529278,P Simran Singh,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",76,29,9,5,262.07,0,1,P Simran Singh,lbw
+1529278,Priyansh Arya,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",43,19,2,5,226.32,0,0,Priyansh Arya,caught
+1529278,SS Iyer,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",71,38,3,7,186.84,0,1,,
+1529278,Shashank Singh,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",19,11,2,1,172.73,0,0,,
+1529279,Abhishek Sharma,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",57,33,11,1,172.73,0,1,Abhishek Sharma,caught
+1529279,Aniket Verma,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",1,2,0,0,50.0,0,0,,
+1529279,D Ferreira,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",33,17,3,3,194.12,0,0,D Ferreira,caught
+1529279,Dhruv Jurel,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",51,39,8,1,130.77,0,1,Dhruv Jurel,caught
+1529279,H Klaasen,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",29,25,3,1,116.0,0,0,H Klaasen,caught
+1529279,Ishan Kishan,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",74,33,11,3,224.24,0,1,Ishan Kishan,caught
+1529279,JC Archer,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",2,2,0,0,100.0,0,0,,
+1529279,Nithish Kumar Reddy,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",36,18,2,3,200.0,0,0,Nithish Kumar Reddy,lbw
+1529279,R Parag,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",7,9,0,0,77.78,0,0,R Parag,bowled
+1529279,RA Jadeja,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",4,3,1,0,133.33,0,0,,
+1529279,S Arora,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",8,3,0,1,266.67,0,0,,
+1529279,SO Hetmyer,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",11,11,1,0,100.0,0,0,SO Hetmyer,caught
+1529279,TM Head,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",6,6,0,1,100.0,0,0,TM Head,caught
+1529279,V Suryavanshi,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",103,37,5,12,278.38,1,0,V Suryavanshi,lbw
+1529279,YBK Jaiswal,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",10,8,2,0,125.0,0,0,YBK Jaiswal,caught
+1529280,B Sai Sudharsan,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",87,46,4,7,189.13,0,1,B Sai Sudharsan,caught
+1529280,D Brevis,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",2,9,0,0,22.22,0,0,D Brevis,caught
+1529280,J Overton,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",18,8,3,1,225.0,0,0,J Overton,caught
+1529280,JC Buttler,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",39,31,4,1,125.81,0,0,,
+1529280,Kartik Sharma,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",15,9,3,0,166.67,0,0,Kartik Sharma,caught
+1529280,RD Gaikwad,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",74,63,6,4,117.46,0,1,,
+1529280,S Dube,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",22,18,3,1,122.22,0,0,S Dube,bowled
+1529280,SN Khan,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",0,1,0,0,0.0,0,0,SN Khan,caught
+1529280,SV Samson,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",11,15,2,0,73.33,0,0,SV Samson,caught
+1529280,Shubman Gill,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",33,24,1,3,137.5,0,0,Shubman Gill,stumped
+1529280,Urvil Patel,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",4,3,1,0,133.33,0,0,Urvil Patel,caught
+1529280,Washington Sundar,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",1,1,0,0,100.0,0,0,,
+1529281,A Badoni,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",24,19,0,2,126.32,0,0,A Badoni,caught
+1529281,A Raghuvanshi,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",9,8,1,0,112.5,0,0,A Raghuvanshi,obstructing the field
+1529281,AK Markram,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",31,29,2,1,106.9,0,0,AK Markram,caught
+1529281,AM Rahane,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",10,16,0,1,62.5,0,0,AM Rahane,caught
+1529281,AS Roy,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,AS Roy,caught
+1529281,C Green,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",34,22,0,3,154.55,0,0,C Green,caught
+1529281,GF Linde,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",8,4,2,0,200.0,0,0,GF Linde,caught
+1529281,Himmat Singh,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",19,10,2,1,190.0,0,0,Himmat Singh,caught
+1529281,MD Choudhary,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,2,0,0,50.0,0,0,MD Choudhary,caught
+1529281,MR Marsh,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,3,0,0,66.67,0,0,MR Marsh,caught
+1529281,Mohammed Shami,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",11,7,1,1,157.14,0,0,,
+1529281,N Pooran,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",9,14,0,1,64.29,0,0,N Pooran,caught
+1529281,Prince Yadav,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,,
+1529281,R Powell,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,4,0,0,25.0,0,0,R Powell,caught
+1529281,RK Singh,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",87,57,8,5,152.63,0,1,,
+1529281,RR Pant,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",43,39,4,1,110.26,0,0,RR Pant,caught
+1529281,Ramandeep Singh,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",6,11,0,0,54.55,0,0,Ramandeep Singh,caught
+1529281,SP Narine,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",4,6,0,0,66.67,0,0,,
+1529281,TL Seifert,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,3,0,0,0.0,0,0,TL Seifert,caught
+1529282,AR Patel,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",0,3,0,0,0.0,0,0,AR Patel,caught
+1529282,Abishek Porel,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",30,34,3,0,88.24,0,0,Abishek Porel,bowled
+1529282,D Padikkal,Royal Challengers Bengaluru,Delhi Capitals,"Arun Jaitley Stadium, Delhi",34,13,3,3,261.54,0,0,,
+1529282,DA Miller,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",19,18,3,0,105.56,0,0,DA Miller,caught
+1529282,JG Bethell,Royal Challengers Bengaluru,Delhi Capitals,"Arun Jaitley Stadium, Delhi",20,11,1,2,181.82,0,0,JG Bethell,caught
+1529282,KA Jamieson,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",12,14,1,1,85.71,0,0,KA Jamieson,lbw
+1529282,KL Rahul,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",1,3,0,0,33.33,0,0,KL Rahul,caught
+1529282,Kuldeep Yadav,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",3,13,0,0,23.08,0,0,Kuldeep Yadav,bowled
+1529282,N Rana,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",1,9,0,0,11.11,0,0,N Rana,caught
+1529282,PVD Chameera,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",0,3,0,0,0.0,0,0,,
+1529282,SU Parakh,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",0,2,0,0,0.0,0,0,SU Parakh,bowled
+1529282,Sameer Rizvi,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",0,1,0,0,0.0,0,0,Sameer Rizvi,caught
+1529282,T Stubbs,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",5,3,1,0,166.67,0,0,T Stubbs,caught
+1529282,V Kohli,Royal Challengers Bengaluru,Delhi Capitals,"Arun Jaitley Stadium, Delhi",23,15,1,2,153.33,0,0,,
+1529283,C Connolly,Punjab Kings,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",30,15,2,3,200.0,0,0,C Connolly,caught
+1529283,D Ferreira,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",52,27,6,3,192.59,0,1,,
+1529283,Dhruv Jurel,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,20,0,1,80.0,0,0,Dhruv Jurel,caught
+1529283,MP Stoinis,Punjab Kings,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",62,22,4,6,281.82,0,1,,
+1529283,P Simran Singh,Punjab Kings,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",59,44,6,1,134.09,0,1,P Simran Singh,caught
+1529283,Priyansh Arya,Punjab Kings,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",29,11,5,1,263.64,0,0,Priyansh Arya,caught
+1529283,R Parag,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",29,16,2,2,181.25,0,0,R Parag,caught
+1529283,SB Dubey,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",31,13,3,2,238.46,0,0,,
+1529283,SS Iyer,Punjab Kings,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",30,27,1,1,111.11,0,0,SS Iyer,caught
+1529283,Suryansh Shedge,Punjab Kings,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,2,0,0,150.0,0,0,,
+1529283,V Suryavanshi,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",43,17,3,5,252.94,0,0,V Suryavanshi,caught
+1529283,YBK Jaiswal,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",51,28,7,1,182.14,0,1,YBK Jaiswal,caught
+1529284,Abhishek Sharma,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",45,29,4,3,155.17,0,0,Abhishek Sharma,caught
+1529284,H Klaasen,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",65,33,7,4,196.97,0,1,,
+1529284,HH Pandya,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",31,16,2,2,193.75,0,0,HH Pandya,caught
+1529284,Ishan Kishan,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",0,1,0,0,0.0,0,0,Ishan Kishan,bowled
+1529284,Naman Dhir,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",22,18,3,0,122.22,0,0,Naman Dhir,caught
+1529284,Nithish Kumar Reddy,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",21,17,3,0,123.53,0,0,Nithish Kumar Reddy,caught
+1529284,R Minz,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",1,1,0,0,100.0,0,0,,
+1529284,RD Rickelton,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",123,59,10,8,208.47,1,0,,
+1529284,S Arora,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",30,10,2,3,300.0,0,0,,
+1529284,SA Yadav,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",5,5,1,0,100.0,0,0,SA Yadav,caught
+1529284,TM Head,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",76,30,4,8,253.33,0,1,TM Head,caught
+1529284,Tilak Varma,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",7,5,0,1,140.0,0,0,Tilak Varma,caught
+1529284,WG Jacks,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",46,23,5,3,200.0,0,0,WG Jacks,caught
+1529285,B Kumar,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",15,15,2,0,100.0,0,0,,
+1529285,B Sai Sudharsan,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",6,5,1,0,120.0,0,0,B Sai Sudharsan,caught
+1529285,D Padikkal,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",40,24,5,2,166.67,0,0,D Padikkal,bowled
+1529285,JC Buttler,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",39,20,2,4,195.0,0,0,JC Buttler,bowled
+1529285,JG Bethell,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",5,5,1,0,100.0,0,0,JG Bethell,caught
+1529285,JM Sharma,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,3,0,0,33.33,0,0,JM Sharma,caught
+1529285,JO Holder,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",12,10,0,1,120.0,0,0,JO Holder,caught
+1529285,JR Hazlewood,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,JR Hazlewood,run out
+1529285,KH Pandya,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",4,4,1,0,100.0,0,0,KH Pandya,caught
+1529285,M Shahrukh Khan,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",8,8,1,0,100.0,0,0,M Shahrukh Khan,caught
+1529285,R Shepherd,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",17,15,0,2,113.33,0,0,R Shepherd,caught
+1529285,R Tewatia,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",27,20,4,0,135.0,0,0,,
+1529285,RM Patidar,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",19,15,2,1,126.67,0,0,RM Patidar,caught
+1529285,Rashid Khan,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",7,6,1,0,116.67,0,0,,
+1529285,Shubman Gill,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",43,18,4,3,238.89,0,0,Shubman Gill,caught
+1529285,TH David,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",9,6,0,1,150.0,0,0,TH David,caught
+1529285,V Kohli,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",28,14,5,1,200.0,0,0,V Kohli,caught
+1529285,VR Iyer,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",12,16,1,0,75.0,0,0,VR Iyer,caught
+1529285,Washington Sundar,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",12,12,0,1,100.0,0,0,Washington Sundar,lbw
+1529286,Ashutosh Sharma,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",25,18,4,0,138.89,0,0,,
+1529286,D Ferreira,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",47,15,2,6,313.33,0,0,,
+1529286,Dhruv Jurel,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",42,30,4,1,140.0,0,0,Dhruv Jurel,caught
+1529286,JC Archer,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",1,1,0,0,100.0,0,0,,
+1529286,KL Rahul,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",75,40,6,5,187.5,0,1,KL Rahul,caught
+1529286,N Rana,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",33,17,3,2,194.12,0,0,N Rana,caught
+1529286,P Nissanka,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",62,34,6,3,182.35,0,1,P Nissanka,lbw
+1529286,R Parag,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",90,52,8,5,173.08,0,1,R Parag,caught
+1529286,RA Jadeja,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",20,15,1,1,133.33,0,0,RA Jadeja,caught
+1529286,SB Dubey,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",6,8,1,0,75.0,0,0,SB Dubey,caught
+1529286,T Stubbs,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",18,14,1,1,128.57,0,0,,
+1529286,V Suryavanshi,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",4,2,1,0,200.0,0,0,V Suryavanshi,bowled
+1529286,YBK Jaiswal,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",6,3,0,1,200.0,0,0,YBK Jaiswal,caught and bowled
+1529287,HH Pandya,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",18,24,2,0,75.0,0,0,HH Pandya,caught
+1529287,Kartik Sharma,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",54,40,4,3,135.0,0,1,,
+1529287,Krish Bhagat,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",3,6,0,0,50.0,0,0,,
+1529287,Naman Dhir,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",57,37,4,3,154.05,0,1,Naman Dhir,caught
+1529287,R Minz,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",5,3,1,0,166.67,0,0,R Minz,bowled
+1529287,RD Gaikwad,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",67,52,5,2,128.85,0,1,,
+1529287,RD Rickelton,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",37,24,0,5,154.17,0,0,RD Rickelton,caught
+1529287,SA Yadav,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",21,12,3,1,175.0,0,0,SA Yadav,caught
+1529287,SV Samson,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",11,9,2,0,122.22,0,0,SV Samson,caught
+1529287,TA Boult,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",7,2,0,1,350.0,0,0,,
+1529287,Tilak Varma,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",5,8,0,0,62.5,0,0,Tilak Varma,caught
+1529287,Urvil Patel,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",24,12,2,2,200.0,0,0,Urvil Patel,bowled
+1529287,WG Jacks,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",1,5,0,0,20.0,0,0,WG Jacks,caught
+1529288,A Raghuvanshi,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",59,50,5,2,118.0,0,1,A Raghuvanshi,caught
+1529288,AM Rahane,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",43,37,4,1,116.22,0,0,AM Rahane,caught
+1529288,Abhishek Sharma,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",15,10,1,1,150.0,0,0,Abhishek Sharma,caught
+1529288,Aniket Verma,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",6,8,1,0,75.0,0,0,Aniket Verma,caught
+1529288,C Green,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",3,3,0,0,100.0,0,0,,
+1529288,E Malinga,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,7,0,0,28.57,0,0,,
+1529288,FH Allen,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",29,14,3,2,207.14,0,0,FH Allen,caught
+1529288,H Klaasen,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",11,8,1,1,137.5,0,0,H Klaasen,caught
+1529288,HV Patel,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",6,5,1,0,120.0,0,0,HV Patel,caught
+1529288,Ishan Kishan,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",42,30,4,2,140.0,0,0,Ishan Kishan,caught
+1529288,PJ Cummins,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",10,8,0,1,125.0,0,0,PJ Cummins,caught and bowled
+1529288,R Smaran,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",4,4,1,0,100.0,0,0,R Smaran,caught
+1529288,RK Singh,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",22,13,2,1,169.23,0,0,,
+1529288,S Arora,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,6,0,0,33.33,0,0,S Arora,bowled
+1529288,Shivang Kumar,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2,0,0,50.0,0,0,Shivang Kumar,caught
+1529288,TM Head,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",61,30,9,3,203.33,0,1,TM Head,caught
+1529289,Arshad Khan,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",8,6,1,0,133.33,0,0,,
+1529289,Arshdeep Singh,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,1,0,0,100.0,0,0,,
+1529289,B Sai Sudharsan,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",57,42,5,1,135.71,0,1,B Sai Sudharsan,caught
+1529289,C Connolly,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,C Connolly,caught
+1529289,JC Buttler,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",26,23,1,2,113.04,0,0,JC Buttler,caught
+1529289,JO Holder,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",5,7,0,0,71.43,0,0,JO Holder,caught
+1529289,M Jansen,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",20,13,1,1,153.85,0,0,M Jansen,caught
+1529289,MP Stoinis,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",40,34,5,1,117.65,0,0,MP Stoinis,caught
+1529289,N Sindhu,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",15,11,0,1,136.36,0,0,N Sindhu,caught
+1529289,N Wadhera,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,6,0,0,0.0,0,0,N Wadhera,caught
+1529289,P Simran Singh,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",15,14,2,0,107.14,0,0,P Simran Singh,caught
+1529289,Priyansh Arya,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",2,2,0,0,100.0,0,0,Priyansh Arya,caught
+1529289,R Tewatia,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",2,6,0,0,33.33,0,0,R Tewatia,caught
+1529289,SS Iyer,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",19,22,3,0,86.36,0,0,SS Iyer,bowled
+1529289,Shubman Gill,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",5,4,1,0,125.0,0,0,Shubman Gill,caught
+1529289,Suryansh Shedge,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",57,29,3,5,196.55,0,1,Suryansh Shedge,caught
+1529289,Vijaykumar Vyshak,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,3,0,0,33.33,0,0,,
+1529289,Washington Sundar,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",40,23,5,1,173.91,0,0,,
+1529289,XC Bartlett,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,XC Bartlett,bowled
+1529290,AK Markram,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",31,25,1,1,124.0,0,0,,
+1529290,Akshat Raghuwanshi,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",11,7,0,1,157.14,0,0,Akshat Raghuwanshi,caught and bowled
+1529290,Himmat Singh,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",40,34,2,2,117.65,0,0,,
+1529290,JP Inglis,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",13,5,3,0,260.0,0,0,JP Inglis,caught
+1529290,MR Marsh,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",44,25,4,3,176.0,0,0,MR Marsh,caught
+1529290,N Pooran,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",63,22,1,8,286.36,0,1,N Pooran,caught
+1529290,Naman Dhir,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",23,12,3,1,191.67,0,0,,
+1529290,RD Rickelton,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",83,33,6,8,251.52,0,1,RD Rickelton,caught
+1529290,RG Sharma,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",84,44,6,7,190.91,0,1,RG Sharma,caught
+1529290,RR Pant,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",15,12,1,1,125.0,0,0,RR Pant,caught
+1529290,SA Yadav,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",12,9,2,0,133.33,0,0,SA Yadav,caught
+1529290,Tilak Varma,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",11,13,0,0,84.62,0,0,Tilak Varma,caught
+1529290,WG Jacks,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",10,5,0,1,200.0,0,0,,
+1529291,AR Patel,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",2,6,0,0,33.33,0,0,AR Patel,caught
+1529291,Ashutosh Sharma,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",14,5,0,2,280.0,0,0,Ashutosh Sharma,run out
+1529291,KK Nair,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",13,13,2,0,100.0,0,0,KK Nair,caught
+1529291,KL Rahul,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",12,13,2,0,92.31,0,0,KL Rahul,caught
+1529291,Kartik Sharma,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",41,32,4,2,128.13,0,0,,
+1529291,N Rana,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",15,13,2,0,115.38,0,0,N Rana,caught
+1529291,P Nissanka,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",19,15,3,1,126.67,0,0,P Nissanka,caught
+1529291,RD Gaikwad,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",6,14,1,0,42.86,0,0,RD Gaikwad,caught
+1529291,SV Samson,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",87,53,7,6,164.15,0,1,,
+1529291,Sameer Rizvi,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",40,24,0,4,166.67,0,0,,
+1529291,T Stubbs,Delhi Capitals,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",38,33,1,2,115.15,0,0,T Stubbs,caught
+1529291,Urvil Patel,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",17,9,0,2,188.89,0,0,Urvil Patel,stumped
+1529292,Abhishek Sharma,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",35,13,2,4,269.23,0,0,Abhishek Sharma,caught
+1529292,C Connolly,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",107,64,7,8,167.19,1,0,,
+1529292,H Klaasen,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",69,44,3,4,156.82,0,1,H Klaasen,caught
+1529292,Ishan Kishan,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",55,33,2,4,166.67,0,1,Ishan Kishan,caught
+1529292,M Jansen,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",19,17,0,1,111.76,0,0,M Jansen,caught
+1529292,MP Stoinis,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",28,15,3,2,186.67,0,0,MP Stoinis,caught
+1529292,Nithish Kumar Reddy,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",29,13,2,2,223.08,0,0,,
+1529292,P Simran Singh,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",3,4,0,0,75.0,0,0,P Simran Singh,caught
+1529292,Priyansh Arya,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,3,0,0,33.33,0,0,Priyansh Arya,caught
+1529292,SS Iyer,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",5,5,1,0,100.0,0,0,SS Iyer,caught
+1529292,Shashank Singh,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",4,3,1,0,133.33,0,0,Shashank Singh,caught
+1529292,Suryansh Shedge,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",25,17,1,2,147.06,0,0,Suryansh Shedge,caught
+1529292,TM Head,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",38,22,3,3,172.73,0,0,TM Head,caught
+1529292,Vijaykumar Vyshak,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1,0,0,100.0,0,0,,
+1529293,AA Kulkarni,Lucknow Super Giants,Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",17,24,1,0,70.83,0,0,AA Kulkarni,caught
+1529293,AK Markram,Lucknow Super Giants,Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,1,0,0,100.0,0,0,,
+1529293,D Padikkal,Royal Challengers Bengaluru,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",34,25,3,1,136.0,0,0,D Padikkal,caught and bowled
+1529293,JG Bethell,Royal Challengers Bengaluru,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",4,8,1,0,50.0,0,0,JG Bethell,caught
+1529293,JM Sharma,Royal Challengers Bengaluru,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,3,0,0,33.33,0,0,JM Sharma,caught
+1529293,KH Pandya,Royal Challengers Bengaluru,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",28,16,2,2,175.0,0,0,,
+1529293,MR Marsh,Lucknow Super Giants,Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",111,58,9,9,191.38,1,0,MR Marsh,caught
+1529293,N Pooran,Lucknow Super Giants,Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",38,24,4,1,158.33,0,0,N Pooran,caught
+1529293,R Shepherd,Royal Challengers Bengaluru,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",23,16,3,1,143.75,0,0,,
+1529293,RM Patidar,Royal Challengers Bengaluru,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",61,32,3,6,190.63,0,1,RM Patidar,caught
+1529293,RR Pant,Lucknow Super Giants,Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",32,12,4,2,266.67,0,0,,
+1529293,TH David,Royal Challengers Bengaluru,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",40,20,4,3,200.0,0,0,TH David,caught
+1529293,V Kohli,Royal Challengers Bengaluru,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,2,0,0,0.0,0,0,V Kohli,bowled
+1529294,A Raghuvanshi,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",1,3,0,0,33.33,0,0,A Raghuvanshi,bowled
+1529294,AM Rahane,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",13,9,1,1,144.44,0,0,,
+1529294,AR Patel,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",11,23,0,0,47.83,0,0,AR Patel,caught
+1529294,Ashutosh Sharma,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",39,28,3,3,139.29,0,0,Ashutosh Sharma,caught
+1529294,C Green,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",33,27,0,2,122.22,0,0,,
+1529294,FH Allen,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",100,47,5,10,212.77,1,0,AM Rahane,run out
+1529294,KL Rahul,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",23,14,4,0,164.29,0,0,KL Rahul,caught
+1529294,L Ngidi,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",1,1,0,0,100.0,0,0,,
+1529294,MA Starc,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",0,2,0,0,0.0,0,0,MA Starc,run out
+1529294,N Rana,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",8,10,1,0,80.0,0,0,N Rana,caught
+1529294,P Nissanka,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",50,30,5,3,166.67,0,1,P Nissanka,stumped
+1529294,Sameer Rizvi,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",3,7,0,0,42.86,0,0,Sameer Rizvi,caught
+1529294,T Stubbs,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",2,4,0,0,50.0,0,0,T Stubbs,bowled
+1529294,V Nigam,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",3,3,0,0,100.0,0,0,,
+1529295,B Sai Sudharsan,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",55,39,6,2,141.03,0,1,B Sai Sudharsan,caught
+1529295,Brijesh Sharma,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,1,0,0,100.0,0,0,,
+1529295,D Ferreira,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",4,2,1,0,200.0,0,0,D Ferreira,bowled
+1529295,Dhruv Jurel,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",24,10,1,3,240.0,0,0,Dhruv Jurel,bowled
+1529295,JC Archer,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",5,6,1,0,83.33,0,0,JC Archer,caught
+1529295,JC Buttler,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",13,10,1,1,130.0,0,0,JC Buttler,caught
+1529295,JO Holder,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",7,8,1,0,87.5,0,0,JO Holder,caught
+1529295,MD Shanaka,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",16,12,2,0,133.33,0,0,MD Shanaka,caught
+1529295,R Tewatia,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",14,5,0,2,280.0,0,0,,
+1529295,RA Jadeja,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",38,25,3,2,152.0,0,0,RA Jadeja,lbw
+1529295,SB Dubey,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",15,14,1,1,107.14,0,0,SB Dubey,bowled
+1529295,SO Hetmyer,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",6,7,1,0,85.71,0,0,SO Hetmyer,caught
+1529295,Shubman Gill,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",84,49,9,3,171.43,0,1,Shubman Gill,caught
+1529295,TU Deshpande,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",1,3,0,0,33.33,0,0,TU Deshpande,caught
+1529295,V Suryavanshi,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",36,17,3,3,211.76,0,0,V Suryavanshi,caught
+1529295,Washington Sundar,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",37,22,2,3,168.18,0,0,,
+1529295,YBK Jaiswal,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",3,4,0,0,75.0,0,0,YBK Jaiswal,caught
+1529296,AK Markram,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",6,7,0,0,85.71,0,0,,
+1529296,Akshat Raghuwanshi,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",18,20,1,0,90.0,0,0,Akshat Raghuwanshi,run out
+1529296,D Brevis,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",10,13,1,0,76.92,0,0,D Brevis,bowled
+1529296,Himmat Singh,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",17,13,1,1,130.77,0,0,Himmat Singh,bowled
+1529296,JP Inglis,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",85,34,10,6,250.0,0,1,JP Inglis,caught
+1529296,Kartik Sharma,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",20,20,1,0,100.0,0,0,Kartik Sharma,caught
+1529296,MR Marsh,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",10,11,0,1,90.91,0,0,MR Marsh,caught
+1529296,Mohammed Shami,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",0,1,0,0,0.0,0,0,Mohammed Shami,run out
+1529296,N Pooran,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",1,3,0,0,33.33,0,0,N Pooran,caught
+1529296,PR Veer,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",17,13,0,2,130.77,0,0,,
+1529296,RD Gaikwad,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",42,29,3,2,144.83,0,0,RD Gaikwad,bowled
+1529296,RR Pant,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",15,12,2,0,125.0,0,0,RR Pant,bowled
+1529296,S Dube,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",15,11,0,2,136.36,0,0,,
+1529296,SV Samson,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",28,14,3,2,200.0,0,0,SV Samson,bowled
+1529296,Shahbaz Ahmed,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",43,25,3,3,172.0,0,0,,
+1529296,Urvil Patel,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",65,24,2,8,270.83,0,1,Urvil Patel,caught
+1529297,B Kumar,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",7,3,0,1,233.33,0,0,,
+1529297,C Bosch,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",5,5,0,0,100.0,0,0,,
+1529297,D Padikkal,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",12,11,1,1,109.09,0,0,D Padikkal,caught
+1529297,DL Chahar,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",1,2,0,0,50.0,0,0,,
+1529297,JG Bethell,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",27,28,2,0,96.43,0,0,JG Bethell,caught
+1529297,JM Sharma,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",18,12,1,2,150.0,0,0,JM Sharma,caught
+1529297,KH Pandya,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",73,50,4,5,146.0,0,1,KH Pandya,caught
+1529297,Naman Dhir,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",47,33,5,2,142.42,0,0,Naman Dhir,bowled
+1529297,R Shepherd,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",4,12,0,0,33.33,0,0,R Shepherd,caught
+1529297,RA Bawa,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",16,14,1,0,114.29,0,0,RA Bawa,caught
+1529297,RD Rickelton,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",2,4,0,0,50.0,0,0,RD Rickelton,caught
+1529297,RG Sharma,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",22,10,2,2,220.0,0,0,RG Sharma,caught
+1529297,RM Patidar,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",8,9,1,0,88.89,0,0,RM Patidar,caught
+1529297,Rasikh Salam,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",3,3,0,0,100.0,0,0,,
+1529297,SA Yadav,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",0,1,0,0,0.0,0,0,SA Yadav,caught
+1529297,TH David,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",0,1,0,0,0.0,0,0,TH David,caught
+1529297,Tilak Varma,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",57,44,3,2,129.55,0,1,Tilak Varma,bowled
+1529297,V Kohli,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",0,2,0,0,0.0,0,0,V Kohli,caught
+1529297,WG Jacks,Mumbai Indians,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",10,10,1,0,100.0,0,0,WG Jacks,caught
+1529298,AR Patel,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",56,38,8,2,147.37,0,1,T Stubbs,run out
+1529298,Abishek Porel,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",5,6,1,0,83.33,0,0,Abishek Porel,bowled
+1529298,Ashutosh Sharma,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",24,10,2,2,240.0,0,0,Ashutosh Sharma,caught
+1529298,Auqib Nabi,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",10,2,1,1,500.0,0,0,,
+1529298,C Connolly,Punjab Kings,Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",38,29,3,2,131.03,0,0,C Connolly,caught
+1529298,DA Miller,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",51,28,3,4,182.14,0,1,DA Miller,caught
+1529298,KL Rahul,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",9,8,2,0,112.5,0,0,KL Rahul,caught
+1529298,M Tiwari,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",18,8,2,1,225.0,0,0,,
+1529298,MP Stoinis,Punjab Kings,Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,2,0,0,50.0,0,0,MP Stoinis,caught
+1529298,P Simran Singh,Punjab Kings,Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",18,17,3,0,105.88,0,0,P Simran Singh,caught
+1529298,Priyansh Arya,Punjab Kings,Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",56,34,2,6,164.71,0,1,Priyansh Arya,caught
+1529298,SS Iyer,Punjab Kings,Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",59,38,5,3,155.26,0,1,,
+1529298,SU Parakh,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",13,6,1,1,216.67,0,0,SU Parakh,caught
+1529298,Shashank Singh,Punjab Kings,Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",0,1,0,0,0.0,0,0,Shashank Singh,caught
+1529298,Suryansh Shedge,Punjab Kings,Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",21,8,2,2,262.5,0,0,,
+1529298,T Stubbs,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",12,17,1,0,70.59,0,0,,
+1529299,Abhishek Sharma,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",6,4,0,1,150.0,0,0,Abhishek Sharma,bowled
+1529299,B Sai Sudharsan,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",61,46,5,2,132.61,0,1,B Sai Sudharsan,caught
+1529299,E Malinga,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,3,0,0,0.0,0,0,,
+1529299,H Klaasen,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",14,16,2,0,87.5,0,0,H Klaasen,caught
+1529299,Ishan Kishan,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",11,7,1,1,157.14,0,0,Ishan Kishan,caught
+1529299,JC Buttler,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",7,11,1,0,63.64,0,0,JC Buttler,caught
+1529299,JO Holder,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",11,12,0,0,91.67,0,0,,
+1529299,N Sindhu,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",22,14,3,1,157.14,0,0,N Sindhu,caught
+1529299,Nithish Kumar Reddy,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",2,5,0,0,40.0,0,0,Nithish Kumar Reddy,caught
+1529299,PJ Cummins,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",19,9,1,2,211.11,0,0,PJ Cummins,caught
+1529299,PP Hinge,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",3,8,0,0,37.5,0,0,PP Hinge,stumped
+1529299,R Smaran,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",9,15,1,0,60.0,0,0,R Smaran,caught
+1529299,R Tewatia,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",4,1,1,0,400.0,0,0,,
+1529299,S Arora,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",16,13,3,0,123.08,0,0,S Arora,caught
+1529299,Shivang Kumar,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",4,6,0,0,66.67,0,0,Shivang Kumar,caught
+1529299,Shubman Gill,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",5,7,1,0,71.43,0,0,Shubman Gill,caught
+1529299,TM Head,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,4,0,0,0.0,0,0,TM Head,caught
+1529299,Washington Sundar,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",50,35,7,1,142.86,0,1,Washington Sundar,caught
+1529300,A Raghuvanshi,Kolkata Knight Riders,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",71,47,7,3,151.06,0,1,,
+1529300,AM Rahane,Kolkata Knight Riders,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",19,13,3,1,146.15,0,0,AM Rahane,caught and bowled
+1529300,C Green,Kolkata Knight Riders,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",32,25,3,1,128.0,0,0,C Green,bowled
+1529300,D Padikkal,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",39,30,7,0,130.0,0,0,D Padikkal,caught
+1529300,FH Allen,Kolkata Knight Riders,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",18,8,3,1,225.0,0,0,FH Allen,caught
+1529300,JG Bethell,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",15,12,2,1,125.0,0,0,JG Bethell,caught and bowled
+1529300,JM Sharma,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",8,5,1,0,160.0,0,0,,
+1529300,RK Singh,Kolkata Knight Riders,Royal Challengers Bengaluru,"Shaheed Veer Narayan Singh International Stadium, Raipur",49,29,3,2,168.97,0,0,A Raghuvanshi,run out
+1529300,RM Patidar,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",11,9,0,1,122.22,0,0,RM Patidar,caught
+1529300,TH David,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",2,4,0,0,50.0,0,0,TH David,caught
+1529300,V Kohli,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",105,64,11,3,164.06,1,0,,
+1529301,Azmatullah Omarzai,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",38,18,2,4,211.11,0,0,Azmatullah Omarzai,caught
+1529301,C Connolly,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",21,23,2,1,91.3,0,0,C Connolly,bowled
+1529301,M Jansen,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2,7,0,0,28.57,0,0,M Jansen,bowled
+1529301,Naman Dhir,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",9,6,0,1,150.0,0,0,Naman Dhir,caught
+1529301,P Simran Singh,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",57,34,6,4,167.65,0,1,P Simran Singh,caught
+1529301,Priyansh Arya,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",22,17,4,0,129.41,0,0,Priyansh Arya,bowled
+1529301,RD Rickelton,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",48,23,4,4,208.7,0,0,RD Rickelton,caught
+1529301,RG Sharma,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",25,27,0,2,92.59,0,0,RG Sharma,bowled
+1529301,SE Rutherford,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",20,22,1,1,90.91,0,0,SE Rutherford,caught
+1529301,SS Iyer,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",4,2,1,0,200.0,0,0,SS Iyer,bowled
+1529301,Shashank Singh,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2,5,0,0,40.0,0,0,Shashank Singh,lbw
+1529301,Suryansh Shedge,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",8,5,0,1,160.0,0,0,Suryansh Shedge,caught
+1529301,Tilak Varma,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",75,34,6,6,220.59,0,1,,
+1529301,Vishnu Vinod,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",15,8,1,1,187.5,0,0,,
+1529301,WG Jacks,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",25,10,2,2,250.0,0,0,,
+1529301,XC Bartlett,Punjab Kings,Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",18,8,2,1,225.0,0,0,,
+1529302,Abdul Samad,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",7,3,0,1,233.33,0,0,Abdul Samad,bowled
+1529302,D Brevis,Chennai Super Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",25,17,0,2,147.06,0,0,D Brevis,caught
+1529302,JP Inglis,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",36,33,3,1,109.09,0,0,JP Inglis,caught
+1529302,Kartik Sharma,Chennai Super Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",71,43,6,5,165.12,0,1,Kartik Sharma,caught
+1529302,MD Choudhary,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,10,2,0,130.0,0,0,,
+1529302,MR Marsh,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",90,40,9,7,225.0,0,1,,
+1529302,N Pooran,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",32,17,1,4,188.24,0,0,MR Marsh,run out
+1529302,PR Veer,Chennai Super Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,12,1,0,108.33,0,0,,
+1529302,RD Gaikwad,Chennai Super Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,9,2,0,144.44,0,0,RD Gaikwad,caught
+1529302,S Dube,Chennai Super Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",32,16,3,2,200.0,0,0,,
+1529302,SV Samson,Chennai Super Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",20,21,3,0,95.24,0,0,SV Samson,caught
+1529302,Urvil Patel,Chennai Super Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",6,9,1,0,66.67,0,0,Urvil Patel,caught
+1529303,A Raghuvanshi,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",82,47,4,7,174.47,0,1,,
+1529303,AM Rahane,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",14,14,1,1,100.0,0,0,AM Rahane,bowled
+1529303,B Sai Sudharsan,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",53,32,6,3,165.63,0,1,,
+1529303,C Green,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",52,28,3,4,185.71,0,1,,
+1529303,FH Allen,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",93,36,4,10,258.33,0,1,FH Allen,caught
+1529303,JC Buttler,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",57,35,5,2,162.86,0,1,JC Buttler,caught
+1529303,N Sindhu,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",1,5,0,0,20.0,0,0,N Sindhu,caught
+1529303,R Tewatia,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",2,4,0,0,50.0,0,0,R Tewatia,caught
+1529303,Shubman Gill,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",85,51,5,7,166.67,0,1,Shubman Gill,caught
+1529304,Azmatullah Omarzai,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",14,10,1,1,140.0,0,0,Azmatullah Omarzai,caught
+1529304,C Connolly,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",37,22,3,3,168.18,0,0,C Connolly,caught
+1529304,D Padikkal,Royal Challengers Bengaluru,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",45,27,4,3,166.67,0,0,D Padikkal,caught
+1529304,Harpreet Brar,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",5,3,1,0,166.67,0,0,,
+1529304,JG Bethell,Royal Challengers Bengaluru,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",11,7,2,0,157.14,0,0,JG Bethell,bowled
+1529304,MP Stoinis,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",37,27,5,0,137.04,0,0,MP Stoinis,lbw
+1529304,P Simran Singh,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2,5,0,0,40.0,0,0,P Simran Singh,caught
+1529304,Priyansh Arya,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",0,4,0,0,0.0,0,0,Priyansh Arya,caught
+1529304,SS Iyer,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,3,0,0,33.33,0,0,SS Iyer,caught
+1529304,Shashank Singh,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",56,30,4,4,186.67,0,1,Shashank Singh,caught
+1529304,Suryansh Shedge,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",35,24,2,2,145.83,0,0,Suryansh Shedge,caught
+1529304,TH David,Royal Challengers Bengaluru,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",28,13,2,2,215.38,0,0,TH David,caught
+1529304,V Kohli,Royal Challengers Bengaluru,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",58,38,4,3,152.63,0,1,V Kohli,caught
+1529304,VR Iyer,Royal Challengers Bengaluru,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",73,41,8,4,178.05,0,1,,
+1529305,AF Milne,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,2,0,0,100.0,0,0,,
+1529305,AR Patel,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",34,20,2,2,170.0,0,0,,
+1529305,Abishek Porel,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",51,34,7,1,150.0,0,1,Abishek Porel,caught
+1529305,Ashutosh Sharma,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",18,6,1,2,300.0,0,0,,
+1529305,D Ferreira,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",0,1,0,0,0.0,0,0,D Ferreira,caught
+1529305,DA Miller,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",9,6,0,1,150.0,0,0,DA Miller,caught
+1529305,Dhruv Jurel,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",53,42,5,2,126.19,0,1,Dhruv Jurel,lbw
+1529305,JC Archer,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",2,2,0,0,100.0,0,0,,
+1529305,KL Rahul,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",56,43,1,3,130.23,0,1,KL Rahul,bowled
+1529305,MD Shanaka,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",10,8,0,1,125.0,0,0,MD Shanaka,caught
+1529305,R Parag,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",51,28,3,5,182.14,0,1,R Parag,caught
+1529305,Ravi Singh,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",4,2,1,0,200.0,0,0,Ravi Singh,lbw
+1529305,SB Dubey,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",5,9,0,0,55.56,0,0,SB Dubey,caught
+1529305,SU Parakh,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",9,8,1,0,112.5,0,0,SU Parakh,caught
+1529305,T Stubbs,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",4,6,0,0,66.67,0,0,T Stubbs,caught
+1529305,V Suryavanshi,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",46,23,5,3,200.0,0,0,V Suryavanshi,caught
+1529305,YBK Jaiswal,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",12,9,3,0,133.33,0,0,YBK Jaiswal,caught
+1529306,AJ Hosein,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",3,1,0,0,300.0,0,0,,
+1529306,Abhishek Sharma,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",26,22,3,1,118.18,0,0,Abhishek Sharma,caught
+1529306,D Brevis,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",44,28,2,4,157.14,0,0,D Brevis,bowled
+1529306,H Klaasen,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",47,28,6,2,167.86,0,0,H Klaasen,stumped
+1529306,Ishan Kishan,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",70,47,7,3,148.94,0,1,Ishan Kishan,caught
+1529306,Kartik Sharma,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",32,19,3,2,168.42,0,0,Kartik Sharma,caught
+1529306,Nithish Kumar Reddy,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",11,8,1,0,137.5,0,0,Nithish Kumar Reddy,caught
+1529306,PR Veer,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",11,11,2,0,100.0,0,0,PR Veer,caught and bowled
+1529306,R Smaran,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",5,2,1,0,250.0,0,0,,
+1529306,RD Gaikwad,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",15,22,0,0,68.18,0,0,RD Gaikwad,caught
+1529306,S Arora,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",10,7,0,1,142.86,0,0,,
+1529306,S Dube,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",26,26,3,1,100.0,0,0,S Dube,bowled
+1529306,SV Samson,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",27,13,5,1,207.69,0,0,SV Samson,caught
+1529306,TM Head,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",6,6,1,0,100.0,0,0,TM Head,caught and bowled
+1529306,Urvil Patel,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",13,9,0,2,144.44,0,0,Urvil Patel,bowled
+1529307,A Badoni,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",0,1,0,0,0.0,0,0,A Badoni,bowled
+1529307,D Ferreira,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",16,10,1,1,160.0,0,0,,
+1529307,Dhruv Jurel,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",53,38,3,3,139.47,0,1,LG Pretorius,run out
+1529307,JP Inglis,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",60,31,7,3,193.55,0,1,JP Inglis,bowled
+1529307,LG Pretorius,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",7,6,0,0,116.67,0,0,,
+1529307,MR Marsh,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",96,59,11,5,162.71,0,1,RR Pant,run out
+1529307,N Pooran,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",16,15,0,2,106.67,0,0,N Pooran,caught
+1529307,RR Pant,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",35,24,2,2,145.83,0,0,,
+1529307,V Suryavanshi,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",93,41,7,10,226.83,0,1,V Suryavanshi,caught
+1529307,YBK Jaiswal,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",43,26,8,1,165.38,0,0,YBK Jaiswal,caught
+1529308,AM Rahane,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",21,18,4,0,116.67,0,0,AM Rahane,caught
+1529308,AS Roy,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",4,4,0,0,100.0,0,0,,
+1529308,C Bosch,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",32,18,3,2,177.78,0,0,,
+1529308,C Green,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",4,8,0,0,50.0,0,0,C Green,caught
+1529308,DL Chahar,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",10,7,2,0,142.86,0,0,DL Chahar,caught
+1529308,FH Allen,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",8,6,2,0,133.33,0,0,FH Allen,bowled
+1529308,HH Pandya,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",26,27,2,1,96.3,0,0,HH Pandya,bowled
+1529308,MK Pandey,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",45,34,6,0,132.35,0,0,MK Pandey,bowled
+1529308,Naman Dhir,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,3,0,0,0.0,0,0,Naman Dhir,caught
+1529308,R Powell,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",40,31,4,2,129.03,0,0,R Powell,caught
+1529308,RD Rickelton,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",6,8,1,0,75.0,0,0,RD Rickelton,caught
+1529308,RG Sharma,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",15,13,0,2,115.38,0,0,RG Sharma,caught
+1529308,RK Singh,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",9,5,2,0,180.0,0,0,,
+1529308,SA Yadav,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",15,6,2,1,250.0,0,0,SA Yadav,bowled
+1529308,T Dahiya,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",11,12,2,0,91.67,0,0,T Dahiya,caught
+1529308,Tilak Varma,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",20,33,0,1,60.61,0,0,Tilak Varma,caught
+1529308,WG Jacks,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",14,8,1,1,175.0,0,0,WG Jacks,run out
+1529309,A Kamboj,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",19,8,1,2,237.5,0,0,A Kamboj,caught
+1529309,B Sai Sudharsan,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",84,57,7,4,147.37,0,1,B Sai Sudharsan,caught
+1529309,D Brevis,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",8,11,0,0,72.73,0,0,D Brevis,caught
+1529309,JC Buttler,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",57,29,5,4,196.55,0,1,,
+1529309,Kartik Sharma,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",19,15,3,0,126.67,0,0,Kartik Sharma,run out
+1529309,MW Short,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",24,15,3,1,160.0,0,0,MW Short,caught
+1529309,Mukesh Choudhary,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",2,2,0,0,100.0,0,0,,
+1529309,Noor Ahmad,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,5,0,0,20.0,0,0,Noor Ahmad,caught and bowled
+1529309,R Tewatia,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,R Tewatia,run out
+1529309,RD Gaikwad,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",16,7,1,2,228.57,0,0,RD Gaikwad,bowled
+1529309,S Dube,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",47,19,4,4,247.37,0,0,S Dube,caught
+1529309,SH Johnson,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,SH Johnson,caught
+1529309,SV Samson,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,1,0,0,0.0,0,0,SV Samson,caught
+1529309,Shubman Gill,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",64,39,7,3,164.1,0,1,Shubman Gill,caught
+1529309,Urvil Patel,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",0,2,0,0,0.0,0,0,Urvil Patel,caught
+1529309,Washington Sundar,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",7,3,0,1,233.33,0,0,Washington Sundar,caught
+1529310,Abhishek Sharma,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",56,24,4,5,233.33,0,1,Abhishek Sharma,caught
+1529310,D Padikkal,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",21,14,2,1,150.0,0,0,D Padikkal,caught
+1529310,H Klaasen,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",51,27,2,5,188.89,0,1,H Klaasen,caught
+1529310,Ishan Kishan,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",79,51,8,3,154.9,0,1,Ishan Kishan,caught
+1529310,KH Pandya,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",41,32,5,0,128.13,0,0,,
+1529310,Nithish Kumar Reddy,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",29,15,1,3,193.33,0,0,,
+1529310,RM Patidar,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",56,40,6,1,140.0,0,1,RM Patidar,caught
+1529310,TH David,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",15,7,1,1,214.29,0,0,,
+1529310,TM Head,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",26,16,5,0,162.5,0,0,TM Head,bowled
+1529310,V Kohli,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",15,12,2,0,125.0,0,0,V Kohli,caught
+1529310,VR Iyer,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",44,20,4,4,220.0,0,0,VR Iyer,caught
+1529311,A Badoni,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",43,19,5,3,226.32,0,0,A Badoni,stumped
+1529311,AA Kulkarni,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,AA Kulkarni,caught
+1529311,Abdul Samad,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",37,23,3,3,160.87,0,0,,
+1529311,Arjun Tendulkar,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",5,5,0,0,100.0,0,0,,
+1529311,C Connolly,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",18,12,4,0,150.0,0,0,C Connolly,bowled
+1529311,JP Inglis,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",72,48,9,2,150.0,0,1,JP Inglis,caught
+1529311,MD Choudhary,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,3,0,0,33.33,0,0,MD Choudhary,caught
+1529311,N Pooran,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,7,0,0,28.57,0,0,N Pooran,bowled
+1529311,P Simran Singh,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",69,39,7,2,176.92,0,1,P Simran Singh,lbw
+1529311,Priyansh Arya,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,1,0,0,0.0,0,0,Priyansh Arya,caught
+1529311,RR Pant,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",26,22,3,0,118.18,0,0,RR Pant,caught
+1529311,SS Iyer,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",101,52,11,5,194.23,1,0,,
+1529311,Suryansh Shedge,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",9,7,1,0,128.57,0,0,,
+1529312,AM Ghazanfar,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",2,3,0,0,66.67,0,0,,
+1529312,C Bosch,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",2,4,0,0,50.0,0,0,C Bosch,caught
+1529312,D Ferreira,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",18,15,0,2,120.0,0,0,D Ferreira,caught
+1529312,DL Chahar,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",8,5,0,1,160.0,0,0,DL Chahar,lbw
+1529312,Dhruv Jurel,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",38,26,3,2,146.15,0,0,MD Shanaka,run out
+1529312,HH Pandya,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",34,16,3,2,212.5,0,0,HH Pandya,caught
+1529312,JC Archer,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",32,15,1,3,213.33,0,0,JC Archer,caught
+1529312,MD Shanaka,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",29,16,0,3,181.25,0,0,,
+1529312,N Burger,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",10,3,0,1,333.33,0,0,,
+1529312,Naman Dhir,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",6,5,1,0,120.0,0,0,Naman Dhir,bowled
+1529312,R Parag,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",14,8,2,1,175.0,0,0,R Parag,caught
+1529312,RA Jadeja,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",19,12,3,0,158.33,0,0,,
+1529312,RD Rickelton,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",12,7,1,1,171.43,0,0,RD Rickelton,caught
+1529312,RG Sharma,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",0,4,0,0,0.0,0,0,RG Sharma,caught
+1529312,SA Yadav,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",60,44,3,4,136.36,0,1,SA Yadav,caught and bowled
+1529312,SB Dubey,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",5,6,0,0,83.33,0,0,SB Dubey,caught
+1529312,SN Thakur,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",10,12,1,0,83.33,0,0,,
+1529312,Tilak Varma,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",3,7,0,0,42.86,0,0,Tilak Varma,bowled
+1529312,V Suryavanshi,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",4,8,0,0,50.0,0,0,V Suryavanshi,caught
+1529312,WG Jacks,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",33,18,3,2,183.33,0,0,WG Jacks,caught
+1529312,YBK Jaiswal,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",27,17,1,3,158.82,0,0,YBK Jaiswal,caught
+1529313,AM Rahane,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",63,41,4,4,153.66,0,1,AM Rahane,caught
+1529313,AR Patel,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",39,27,3,2,144.44,0,0,AR Patel,caught
+1529313,AS Roy,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",9,9,1,0,100.0,0,0,R Powell,run out
+1529313,Abishek Porel,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",22,20,4,0,110.0,0,0,Abishek Porel,caught
+1529313,Ashutosh Sharma,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",18,11,2,1,163.64,0,0,,
+1529313,C Green,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",2,3,0,0,66.67,0,0,C Green,caught
+1529313,CV Varun,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",5,5,1,0,100.0,0,0,CV Varun,caught
+1529313,DA Miller,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",28,21,0,3,133.33,0,0,DA Miller,caught
+1529313,FH Allen,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",20,13,3,1,153.85,0,0,FH Allen,bowled
+1529313,KL Rahul,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",60,32,5,4,187.5,0,1,KL Rahul,caught
+1529313,Kartik Tyagi,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",0,1,0,0,0.0,0,0,Kartik Tyagi,caught
+1529313,MK Pandey,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",25,17,2,2,147.06,0,0,MK Pandey,caught
+1529313,R Powell,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",29,21,3,1,138.1,0,0,,
+1529313,RK Singh,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",0,1,0,0,0.0,0,0,RK Singh,caught
+1529313,SR Dubey,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",4,2,1,0,200.0,0,0,,
+1529313,SU Parakh,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",24,17,3,1,141.18,0,0,SU Parakh,caught
+1529313,T Dahiya,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",1,3,0,0,33.33,0,0,T Dahiya,bowled
+1529313,T Stubbs,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",0,1,0,0,0.0,0,0,,
+1535462,B Sai Sudharsan,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",14,10,3,0,140.0,0,0,B Sai Sudharsan,hit wicket
+1535462,D Padikkal,Royal Challengers Bengaluru,Gujarat Titans,"Himachal Pradesh Cricket Association Stadium, Dharamsala",30,19,5,0,157.89,0,0,D Padikkal,caught
+1535462,JC Buttler,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",29,11,4,2,263.64,0,0,JC Buttler,bowled
+1535462,JM Sharma,Royal Challengers Bengaluru,Gujarat Titans,"Himachal Pradesh Cricket Association Stadium, Dharamsala",15,5,1,1,300.0,0,0,,
+1535462,JO Holder,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",0,3,0,0,0.0,0,0,JO Holder,caught
+1535462,K Rabada,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",9,6,2,0,150.0,0,0,K Rabada,caught
+1535462,KH Pandya,Royal Challengers Bengaluru,Gujarat Titans,"Himachal Pradesh Cricket Association Stadium, Dharamsala",43,29,5,2,148.28,0,0,KH Pandya,caught
+1535462,M Prasidh Krishna,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",6,7,1,0,85.71,0,0,,
+1535462,Mohammed Siraj,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",5,13,1,0,38.46,0,0,Mohammed Siraj,caught
+1535462,N Sindhu,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",5,3,1,0,166.67,0,0,N Sindhu,caught and bowled
+1535462,R Tewatia,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",68,45,8,4,151.11,0,1,R Tewatia,caught
+1535462,RM Patidar,Royal Challengers Bengaluru,Gujarat Titans,"Himachal Pradesh Cricket Association Stadium, Dharamsala",93,33,5,9,281.82,0,1,,
+1535462,Rashid Khan,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",8,10,0,1,80.0,0,0,Rashid Khan,caught
+1535462,Shubman Gill,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2,7,0,0,28.57,0,0,Shubman Gill,bowled
+1535462,TH David,Royal Challengers Bengaluru,Gujarat Titans,"Himachal Pradesh Cricket Association Stadium, Dharamsala",4,7,0,0,57.14,0,0,TH David,bowled
+1535462,V Kohli,Royal Challengers Bengaluru,Gujarat Titans,"Himachal Pradesh Cricket Association Stadium, Dharamsala",43,25,5,1,172.0,0,0,V Kohli,bowled
+1535462,VR Iyer,Royal Challengers Bengaluru,Gujarat Titans,"Himachal Pradesh Cricket Association Stadium, Dharamsala",19,7,3,1,271.43,0,0,VR Iyer,caught
+1535462,Washington Sundar,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",8,9,1,0,88.89,0,0,Washington Sundar,caught
+1535463,Abhishek Sharma,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",0,2,0,0,0.0,0,0,Abhishek Sharma,caught
+1535463,D Ferreira,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",12,9,1,0,133.33,0,0,D Ferreira,run out
+1535463,Dhruv Jurel,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",50,22,5,3,227.27,0,1,Dhruv Jurel,caught
+1535463,E Malinga,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",5,8,0,0,62.5,0,0,E Malinga,caught
+1535463,H Klaasen,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",18,11,2,1,163.64,0,0,H Klaasen,lbw
+1535463,Ishan Kishan,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",33,11,3,3,300.0,0,0,Ishan Kishan,caught
+1535463,JC Archer,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",4,5,1,0,80.0,0,0,JC Archer,caught
+1535463,MD Shanaka,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",5,3,1,0,166.67,0,0,MD Shanaka,caught
+1535463,N Burger,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,1,0,0,100.0,0,0,N Burger,run out
+1535463,Nithish Kumar Reddy,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",38,21,3,2,180.95,0,0,Nithish Kumar Reddy,caught
+1535463,PJ Cummins,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,3,0,0,33.33,0,0,PJ Cummins,caught
+1535463,R Parag,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",26,12,2,2,216.67,0,0,R Parag,caught
+1535463,R Smaran,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,4,0,0,25.0,0,0,R Smaran,caught
+1535463,RA Jadeja,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",12,9,1,0,133.33,0,0,,
+1535463,SS Mishra,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,3,0,0,33.33,0,0,,
+1535463,Sakib Hussain,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",5,7,1,0,71.43,0,0,,
+1535463,Salil Arora,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",35,25,2,2,140.0,0,0,Salil Arora,caught
+1535463,Shivang Kumar,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",27,27,3,0,100.0,0,0,Shivang Kumar,caught
+1535463,TM Head,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",17,9,2,1,188.89,0,0,TM Head,bowled
+1535463,V Suryavanshi,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",97,31,5,12,312.9,0,1,V Suryavanshi,caught
+1535463,YBK Jaiswal,Rajasthan Royals,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",29,29,4,0,100.0,0,0,YBK Jaiswal,caught
+1535464,B Sai Sudharsan,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",58,33,8,1,175.76,0,1,B Sai Sudharsan,hit wicket
+1535464,D Ferreira,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",38,11,2,4,345.45,0,0,,
+1535464,Dhruv Jurel,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,6,1,0,116.67,0,0,Dhruv Jurel,caught
+1535464,JC Archer,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,4,0,1,175.0,0,0,JC Archer,caught
+1535464,JC Buttler,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",9,9,0,0,100.0,0,0,,
+1535464,MD Shanaka,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,9,0,0,33.33,0,0,MD Shanaka,caught
+1535464,R Parag,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",11,6,1,1,183.33,0,0,R Parag,caught
+1535464,R Tewatia,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",17,10,2,1,170.0,0,0,,
+1535464,RA Jadeja,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",45,36,5,1,125.0,0,0,,
+1535464,Shubman Gill,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",104,58,15,3,179.31,1,0,Shubman Gill,lbw
+1535464,V Suryavanshi,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",96,48,8,7,200.0,0,1,V Suryavanshi,caught
+1535464,Washington Sundar,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",16,9,2,1,177.78,0,0,Washington Sundar,caught
+1535464,YBK Jaiswal,Rajasthan Royals,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",1,2,0,0,50.0,0,0,YBK Jaiswal,caught
+1535465,Arshad Khan,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",15,6,0,2,250.0,0,0,Arshad Khan,caught
+1535465,B Sai Sudharsan,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",12,14,2,0,85.71,0,0,B Sai Sudharsan,caught
+1535465,D Padikkal,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,4,0,0,25.0,0,0,D Padikkal,caught
+1535465,JC Buttler,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",19,23,1,0,82.61,0,0,JC Buttler,stumped
+1535465,JM Sharma,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",11,14,1,0,78.57,0,0,,
+1535465,JO Holder,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",7,5,1,0,140.0,0,0,JO Holder,caught
+1535465,K Rabada,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",3,3,0,0,100.0,0,0,,
+1535465,KH Pandya,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",1,2,0,0,50.0,0,0,KH Pandya,lbw
+1535465,N Sindhu,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",20,18,3,0,111.11,0,0,N Sindhu,caught
+1535465,R Tewatia,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",7,5,1,0,140.0,0,0,R Tewatia,caught
+1535465,RM Patidar,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",15,14,1,1,107.14,0,0,RM Patidar,caught
+1535465,Rashid Khan,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",7,3,0,1,233.33,0,0,Rashid Khan,caught
+1535465,Shubman Gill,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",10,9,2,0,111.11,0,0,Shubman Gill,caught
+1535465,TH David,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",24,17,3,1,141.18,0,0,TH David,caught
+1535465,V Kohli,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",75,42,9,3,178.57,0,1,,
+1535465,VR Iyer,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",32,16,4,2,200.0,0,0,VR Iyer,caught
+1535465,Washington Sundar,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",50,38,5,0,131.58,0,1,,

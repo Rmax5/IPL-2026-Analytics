@@ -1,0 +1,27 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Power BI local cache and temporary files
+*.pbix.tmp
+*.pbit.tmp
+*.bak
+
+# Potentially large exports; add deliberately if needed
+exports/
+*.zip
