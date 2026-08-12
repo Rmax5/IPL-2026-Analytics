@@ -55,4 +55,4 @@ An exploratory cricket analytics project built around IPL 2026 match, batting, a
 
 ## Author
 
-Rajen
+Rajendra
