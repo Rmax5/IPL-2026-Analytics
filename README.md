@@ -1,58 +1,130 @@
-# IPL 2026  Analytics
+# IPL 2026 Analytics
 
-An exploratory cricket analytics project built around IPL 2026 match, batting, and bowling data. The project combines Python-based analysis, SQL queries, and interactive Power BI reports to surface team, player, toss, venue, and boundary-scoring insights.
+## Project Overview
 
-## Project highlights
+This project analyzes IPL 2026 match and player performance data using Python, SQL, and Power BI.
 
-- Interactive Power BI dashboards for IPL 2026 analysis
-- Player-level batting and bowling datasets
-- Team standings and match-result SQL analysis
-- Toss and venue impact exploration
-- Python notebook for data exploration and visual analysis
+The objective is to clean and analyze IPL data, identify important batting and bowling performances, compare team performance, and create interactive dashboards for better understanding of the tournament.
 
-## Repository structure
+## Tools & Technologies
 
-```
-.
-|-- data/                     # Core IPL 2026 CSV datasets
-|-- Notebook/                 # Python exploration notebook
-|-- SQL query/                # SQL analysis queries
-|-- IPL2026.pbix              # Main Power BI report
-|-- Toss Analysis_Ipl_2026.pbix # Toss-focused Power BI report
-|-- teams_boundaries.csv      # Supporting dashboard data
-|-- venue_toss.csv            # Supporting dashboard data
-|-- venue_tossimpact.csv      # Supporting dashboard data
-|-- vsuryavanshi_data.csv     # Supporting dashboard data
-|-- requirements.txt          # Python dependencies
-`-- README.md
-```
-
-## Getting started
-
-1. Clone the repository.
-2. Create and activate a Python virtual environment (optional but recommended).
-3. Install the notebook dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Open `Notebook/2026-ipl-data.ipynb` in Jupyter Notebook or VS Code.
-5. Open either `.pbix` file with Power BI Desktop. If Power BI requests a data refresh, point it to the corresponding files in this repository.
-
-## Tools used
-
-- Power BI Desktop
-- Python (pandas, NumPy, seaborn, matplotlib)
-- Jupyter Notebook
+- Python
+- Pandas
 - SQL
+- PostgreSQL
+- Power BI
+- Jupyter Notebook
 
-## Notes
+## Project Workflow
 
-- The CSV files are included so the analysis is reproducible.
-- Power BI reports are binary files; GitHub cannot preview them. Download and open them in Power BI Desktop.
-- This project is for portfolio and learning purposes. Dataset provenance and usage rights should be verified before commercial reuse.
+Raw IPL Data
+↓
+Data Cleaning & Preparation using Python
+↓
+Exploratory Data Analysis
+↓
+SQL Analysis
+↓
+Power BI Visualization
+↓
+Interactive IPL Dashboard
 
-## Author
+## Dataset
 
+The project uses IPL 2026 data containing information related to:
+
+- Match results
+- Teams
+- Batting performance
+- Bowling performance
+- Runs scored
+- Wickets taken
+- Match outcomes
+
+The main datasets include:
+
+- `batsman_2026.csv`
+- `bowler_2026.csv`
+- `matches_2026.csv`
+
+## Python Analysis
+
+Python and Pandas were used for:
+
+- Loading the datasets
+- Data cleaning
+- Handling missing values
+- Data transformation
+- Exploratory data analysis
+- Player performance analysis
+- Team performance analysis
+- Identifying top run scorers
+- Identifying top wicket takers
+
+## SQL Analysis
+
+SQL was used to perform analytical queries on the IPL data.
+
+The analysis includes:
+
+- Team-wise performance
+- Match wins and losses
+- Top run scorers
+- Top wicket takers
+- Batting performance
+- Bowling performance
+- Player rankings
+- Match-level analysis
+
+SQL helped transform the raw data into meaningful analytical insights.
+
+## Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize the IPL 2026 data.
+
+The dashboard includes:
+
+- Team performance
+- Top run scorer
+- Top wicket taker
+- Batting statistics
+- Bowling statistics
+- Match results
+- Team-wise analysis
+- Interactive filters and slicers
+
+## Key Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Analysis
+- SQL Querying
+- Data Visualization
+- Dashboard Development
+- Business/Data Insights
+- Python Programming
+- Power BI
+
+## Project Structure
+
+```text
+IPL-2026-Analytics/
+│
+├── data/
+│   ├── batsman_2026.csv
+│   ├── bowler_2026.csv
+│   └── matches_2026.csv
+│
+├── notebooks/
+│   └── IPL_2026_Analysis.ipynb
+│
+├── SQL query/
+│   └── IPL_analysis.sql
+│
+├── Power BI/
+│   └── IPL2026.pbix
+│
+├── README.md
+└── requirements.txt
+Author
 Rajendra
